@@ -1,0 +1,4680 @@
+{
+  "agar malwa_MP/101": [
+    "shajapur_MP/610",
+    "rajgarh_MP/561",
+    "jhalawar_RJ/354",
+    "ratlam_MP/572",
+    "ujjain_MP/682"
+  ],
+  "agra_UP/102": [
+    "bharatpur_RJ/178",
+    "etawah_UP/277",
+    "mathura_UP/468",
+    "bhind_MP/182",
+    "morena_MP/479",
+    "firozabad_UP/286",
+    "hathras_UP/322",
+    "dholpur_RJ/256",
+    "etah_UP/276"
+  ],
+  "ahmedabad_GJ/103": [
+    "anand_GJ/121",
+    "mehsana_GJ/472",
+    "gandhinagar_GJ/291",
+    "kheda_GJ/395",
+    "bhavnagar_GJ/180",
+    "surendranagar_GJ/655",
+    "botad_GJ/194"
+  ],
+  "ahmednagar_MH/104": [
+    "solapur_MH/637",
+    "osmanabad_MH/513",
+    "nashik_MH/501",
+    "pune_MH/549",
+    "beed_MH/168",
+    "thane_MH/661",
+    "aurangabad_MH/134"
+  ],
+  "aizawl_MZ/105": [
+    "champhai_MZ/207",
+    "serchhip_MZ/606",
+    "mamit_MZ/462",
+    "unknown_AS/685",
+    "kolasib_MZ/407",
+    "lunglei_MZ/448",
+    "unknown_MN/687"
+  ],
+  "ajmer_RJ/106": [
+    "tonk_RJ/675",
+    "bhilwara_RJ/181",
+    "rajsamand_RJ/565",
+    "jaipur_RJ/335",
+    "nagaur_RJ/490",
+    "pali_RJ/519"
+  ],
+  "akola_MH/107": [
+    "washim_MH/711",
+    "buldhana_MH/199",
+    "amravati_MH/117"
+  ],
+  "alappuzha_KL/108": [
+    "kottayam_KL/417",
+    "ernakulam_KL/274",
+    "kollam_KL/410",
+    "pathanamthitta_KL/530"
+  ],
+  "aligarh_UP/109": [
+    "bulandshahr_UP/198",
+    "gautam buddha nagar_UP/296",
+    "kasganj_UP/385",
+    "palwal_HR/520",
+    "hathras_UP/322",
+    "budaun_UP/196",
+    "mathura_UP/468",
+    "sambhal_UP/595"
+  ],
+  "alipurduar_WB/110": [
+    "cooch behar_WB/226",
+    "unknown_AS/685",
+    "jalpaiguri_WB/343"
+  ],
+  "alirajpur_MP/111": [
+    "dahod_GJ/230",
+    "chhota udaipur_GJ/217",
+    "barwani_MP/164",
+    "jhabua_MP/352",
+    "dhar_MP/252",
+    "nandurbar_MH/497"
+  ],
+  "almora_UT/112": [
+    "bageshwar_UT/138",
+    "champawat_UT/206",
+    "pauri garhwal_UT/534",
+    "chamoli_UT/205",
+    "nainital_UT/492",
+    "pithoragarh_UT/539"
+  ],
+  "alwar_RJ/113": [
+    "dausa_RJ/240",
+    "mahendragarh_HR/455",
+    "jaipur_RJ/335",
+    "rewari_HR/577",
+    "nuh_HR/512",
+    "bharatpur_RJ/178"
+  ],
+  "ambala_HR/114": [
+    "s.a.s. nagar_PB/583",
+    "panchkula_HR/521",
+    "yamunanagar_HR/725",
+    "patiala_PB/532",
+    "kurukshetra_HR/426",
+    "sirmaur_HP/629"
+  ],
+  "ambedkar nagar_UP/115": [
+    "basti_UP/166",
+    "sultanpur_UP/650",
+    "ayodhya_UP/135",
+    "azamgarh_UP/136",
+    "gorakhpur_UP/307",
+    "sant kabir nagar_UP/598"
+  ],
+  "amethi_UP/116": [
+    "sultanpur_UP/650",
+    "rae bareli_UP/555",
+    "barabanki_UP/157",
+    "ayodhya_UP/135",
+    "pratapgarh_UP/543"
+  ],
+  "amravati_MH/117": [
+    "wardha_MH/710",
+    "khandwa_MP/393",
+    "washim_MH/711",
+    "yavatmal_MH/726",
+    "burhanpur_MP/201",
+    "akola_MH/107",
+    "betul_MP/173",
+    "buldhana_MH/199",
+    "chhindwara_MP/216",
+    "nagpur_MH/491"
+  ],
+  "amreli_GJ/118": [
+    "gir somnath_GJ/300",
+    "junagadh_GJ/361",
+    "bhavnagar_GJ/180",
+    "rajkot_GJ/562",
+    "botad_GJ/194"
+  ],
+  "amritsar_PB/119": [
+    "kapurthala_PB/378",
+    "tarn taran_PB/658",
+    "gurdaspur_PB/311"
+  ],
+  "amroha_UP/120": [
+    "meerut_UP/471",
+    "bulandshahr_UP/198",
+    "hapur_UP/317",
+    "moradabad_UP/477",
+    "bijnor_UP/188",
+    "sambhal_UP/595"
+  ],
+  "anand_GJ/121": [
+    "vadodara_GJ/699",
+    "ahmedabad_GJ/103",
+    "bharuch_GJ/179",
+    "kheda_GJ/395"
+  ],
+  "anantapur_AP/122": [
+    "chitradurga_KA/220",
+    "chikkaballapura_KA/218",
+    "y.s.r. kadapa_AP/723",
+    "tumakuru_KA/677",
+    "kurnool_AP/425",
+    "ballari_KA/144",
+    "chittoor_AP/222"
+  ],
+  "anantnag_JK/123": [
+    "srinagar_JK/647",
+    "shopiyan_JK/619",
+    "pulwama_JK/547",
+    "kulgam_JK/422",
+    "doda_JK/262",
+    "ganderbal_JK/290",
+    "ramban_JK/568",
+    "kishtwar_JK/402",
+    "kargil_LA/381"
+  ],
+  "angul_OR/124": [
+    "cuttack_OR/228",
+    "sambalpur_OR/594",
+    "sundargarh_OR/651",
+    "deogarh_OR/244",
+    "dhenkanal_OR/255",
+    "nayagarh_OR/504",
+    "subarnapur_OR/648",
+    "boudh_OR/195",
+    "kendujhar_OR/391"
+  ],
+  "anjaw_AR/125": [
+    "lohit_AR/440",
+    "changlang_AR/211"
+  ],
+  "anuppur_MP/126": [
+    "dindori_MP/260",
+    "koriya_CT/415",
+    "mungeli_CT/481",
+    "umaria_MP/683",
+    "shahdol_MP/607",
+    "bilaspur_CT/190"
+  ],
+  "araria_BR/127": [
+    "purnia_BR/553",
+    "supaul_BR/652",
+    "madhepura_BR/449",
+    "kishanganj_BR/401"
+  ],
+  "aravalli_GJ/128": [
+    "dungarpur_RJ/264",
+    "mahisagar_GJ/456",
+    "gandhinagar_GJ/291",
+    "udaipur_RJ/678",
+    "sabarkantha_GJ/585",
+    "kheda_GJ/395"
+  ],
+  "ariyalur_TN/129": [
+    "thanjavur_TN/662",
+    "tiruchirappalli_TN/671",
+    "perambalur_TN/535",
+    "cuddalore_TN/227"
+  ],
+  "arwal_BR/130": [
+    "jehanabad_BR/351",
+    "rohtas_BR/580",
+    "gaya_BR/297",
+    "patna_BR/533",
+    "bhojpur_BR/184",
+    "aurangabad_BR/133"
+  ],
+  "ashoknagar_MP/131": [
+    "guna_MP/309",
+    "sagar_MP/586",
+    "lalitpur_UP/433",
+    "shivpuri_MP/618",
+    "vidisha_MP/704"
+  ],
+  "auraiya_UP/132": [
+    "jalaun_UP/339",
+    "kanpur dehat_UP/375",
+    "etawah_UP/277",
+    "kannauj_UP/373"
+  ],
+  "aurangabad_BR/133": [
+    "arwal_BR/130",
+    "gaya_BR/297",
+    "palamu_JH/517",
+    "rohtas_BR/580"
+  ],
+  "aurangabad_MH/134": [
+    "jalna_MH/341",
+    "nashik_MH/501",
+    "jalgaon_MH/340",
+    "ahmednagar_MH/104",
+    "beed_MH/168"
+  ],
+  "ayodhya_UP/135": [
+    "basti_UP/166",
+    "sultanpur_UP/650",
+    "gonda_UP/304",
+    "ambedkar nagar_UP/115",
+    "barabanki_UP/157",
+    "amethi_UP/116"
+  ],
+  "azamgarh_UP/136": [
+    "sultanpur_UP/650",
+    "ambedkar nagar_UP/115",
+    "jaunpur_UP/350",
+    "gorakhpur_UP/307",
+    "ghazipur_UP/299",
+    "mau_UP/469"
+  ],
+  "bagalkote_KA/137": [
+    "koppal_KA/412",
+    "vijayapura_KA/705",
+    "gadag_KA/287",
+    "belagavi_KA/170",
+    "raichur_KA/556"
+  ],
+  "bageshwar_UT/138": [
+    "pithoragarh_UT/539",
+    "chamoli_UT/205",
+    "almora_UT/112"
+  ],
+  "baghpat_UP/139": [
+    "panipat_HR/523",
+    "muzaffarnagar_UP/484",
+    "ghaziabad_UP/298",
+    "sonipat_HR/639",
+    "shamli_UP/611",
+    "delhi_DL/243",
+    "meerut_UP/471"
+  ],
+  "bahraich_UP/140": [
+    "sitapur_UP/633",
+    "shrawasti_UP/620",
+    "lakhimpur kheri_UP/431",
+    "gonda_UP/304",
+    "barabanki_UP/157"
+  ],
+  "balaghat_MP/141": [
+    "kabeerdham_CT/362",
+    "seoni_MP/605",
+    "bhandara_MH/177",
+    "mandla_MP/464",
+    "gondia_MH/305",
+    "rajnandgaon_CT/563",
+    "nagpur_MH/491"
+  ],
+  "balangir_OR/142": [
+    "kandhamal_OR/371",
+    "kalahandi_OR/366",
+    "bargarh_OR/161",
+    "subarnapur_OR/648",
+    "nuapada_OR/511",
+    "boudh_OR/195"
+  ],
+  "balasore_OR/143": [
+    "paschim medinipur_WB/528",
+    "bhadrak_OR/175",
+    "jhargram_WB/356",
+    "mayurbhanj_OR/470",
+    "purba medinipur_WB/551",
+    "kendujhar_OR/391"
+  ],
+  "ballari_KA/144": [
+    "anantapur_AP/122",
+    "chitradurga_KA/220",
+    "davanagere_KA/241",
+    "kurnool_AP/425",
+    "haveri_KA/323",
+    "koppal_KA/412",
+    "gadag_KA/287",
+    "raichur_KA/556"
+  ],
+  "ballia_UP/145": [
+    "buxar_BR/202",
+    "mau_UP/469",
+    "siwan_BR/635",
+    "deoria_UP/246",
+    "saran_BR/600",
+    "ghazipur_UP/299",
+    "bhojpur_BR/184"
+  ],
+  "balod_CT/146": [
+    "dhamtari_CT/250",
+    "durg_CT/265",
+    "rajnandgaon_CT/563",
+    "uttar bastar kanker_CT/695"
+  ],
+  "baloda bazar_CT/147": [
+    "mahasamund_CT/453",
+    "janjgir champa_CT/348",
+    "raipur_CT/559",
+    "bametara_CT/150",
+    "mungeli_CT/481",
+    "raigarh_CT/558",
+    "bilaspur_CT/190"
+  ],
+  "balrampur_CT/148": [
+    "gumla_JH/308",
+    "sonbhadra_UP/638",
+    "surajpur_CT/653",
+    "jashpur_CT/349",
+    "garhwa_JH/294",
+    "singrauli_MP/627",
+    "latehar_JH/434",
+    "surguja_CT/656"
+  ],
+  "balrampur_UP/149": [
+    "gonda_UP/304",
+    "shrawasti_UP/620",
+    "siddharthnagar_UP/622"
+  ],
+  "bametara_CT/150": [
+    "kabeerdham_CT/362",
+    "rajnandgaon_CT/563",
+    "raipur_CT/559",
+    "mungeli_CT/481",
+    "durg_CT/265",
+    "baloda bazar_CT/147"
+  ],
+  "banaskantha_GJ/151": [
+    "kutch_GJ/429",
+    "patan_GJ/529",
+    "sabarkantha_GJ/585",
+    "mehsana_GJ/472",
+    "jalore_RJ/342",
+    "sirohi_RJ/630"
+  ],
+  "banda_UP/152": [
+    "fatehpur_UP/283",
+    "mahoba_UP/457",
+    "chitrakoot_UP/221",
+    "panna_MP/524",
+    "satna_MP/602",
+    "chhatarpur_MP/215",
+    "hamirpur_UP/315"
+  ],
+  "bandipora_JK/153": [
+    "srinagar_JK/647",
+    "baramulla_JK/158",
+    "ganderbal_JK/290",
+    "kupwara_JK/424",
+    "kargil_LA/381"
+  ],
+  "banka_BR/154": [
+    "godda_JH/302",
+    "jamui_BR/347",
+    "dumka_JH/263",
+    "munger_BR/482",
+    "bhagalpur_BR/176",
+    "deoghar_JH/245"
+  ],
+  "bankura_WB/155": [
+    "purba bardhaman_WB/550",
+    "paschim medinipur_WB/528",
+    "paschim bardhaman_WB/527",
+    "hooghly_WB/327",
+    "jhargram_WB/356",
+    "purulia_WB/554"
+  ],
+  "banswara_RJ/156": [
+    "dungarpur_RJ/264",
+    "mahisagar_GJ/456",
+    "dahod_GJ/230",
+    "jhabua_MP/352",
+    "ratlam_MP/572",
+    "pratapgarh_RJ/542"
+  ],
+  "barabanki_UP/157": [
+    "sitapur_UP/633",
+    "bahraich_UP/140",
+    "gonda_UP/304",
+    "rae bareli_UP/555",
+    "ayodhya_UP/135",
+    "amethi_UP/116",
+    "lucknow_UP/446"
+  ],
+  "baramulla_JK/158": [
+    "srinagar_JK/647",
+    "bandipora_JK/153",
+    "budgam_JK/197",
+    "punch_JK/548",
+    "kupwara_JK/424"
+  ],
+  "baran_RJ/159": [
+    "sheopur_MP/614",
+    "guna_MP/309",
+    "jhalawar_RJ/354",
+    "kota_RJ/416",
+    "shivpuri_MP/618"
+  ],
+  "bareilly_UP/160": [
+    "pilibhit_UP/538",
+    "rampur_UP/570",
+    "shahjahanpur_UP/609",
+    "udham singh nagar_UT/679",
+    "budaun_UP/196"
+  ],
+  "bargarh_OR/161": [
+    "sambalpur_OR/594",
+    "mahasamund_CT/453",
+    "subarnapur_OR/648",
+    "balangir_OR/142",
+    "nuapada_OR/511",
+    "jharsuguda_OR/357",
+    "raigarh_CT/558"
+  ],
+  "barmer_RJ/162": [
+    "kutch_GJ/429",
+    "jaisalmer_RJ/336",
+    "jalore_RJ/342",
+    "jodhpur_RJ/360",
+    "pali_RJ/519"
+  ],
+  "barnala_PB/163": [
+    "ludhiana_PB/447",
+    "sangrur_PB/597",
+    "mansa_PB/467",
+    "moga_PB/474",
+    "bathinda_PB/167"
+  ],
+  "barwani_MP/164": [
+    "jalgaon_MH/340",
+    "dhar_MP/252",
+    "dhule_MH/257",
+    "nandurbar_MH/497",
+    "alirajpur_MP/111",
+    "khargone_MP/394"
+  ],
+  "bastar_CT/165": [
+    "kondagaon_CT/411",
+    "malkangiri_OR/461",
+    "nabarangapur_OR/487",
+    "sukma_CT/649",
+    "koraput_OR/413",
+    "dakshin bastar dantewada_CT/231"
+  ],
+  "basti_UP/166": [
+    "siddharthnagar_UP/622",
+    "gonda_UP/304",
+    "ambedkar nagar_UP/115",
+    "ayodhya_UP/135",
+    "sant kabir nagar_UP/598"
+  ],
+  "bathinda_PB/167": [
+    "barnala_PB/163",
+    "faridkot_PB/279",
+    "sirsa_HR/631",
+    "mansa_PB/467",
+    "sri muktsar sahib_PB/645",
+    "moga_PB/474"
+  ],
+  "beed_MH/168": [
+    "latur_MH/435",
+    "jalna_MH/341",
+    "parbhani_MH/526",
+    "ahmednagar_MH/104",
+    "osmanabad_MH/513",
+    "aurangabad_MH/134"
+  ],
+  "begusarai_BR/169": [
+    "lakhisarai_BR/432",
+    "munger_BR/482",
+    "samastipur_BR/592",
+    "khagaria_BR/392",
+    "patna_BR/533"
+  ],
+  "belagavi_KA/170": [
+    "sangli_MH/596",
+    "kolhapur_MH/408",
+    "unknown_GA/686",
+    "uttara kannada_KA/697",
+    "vijayapura_KA/705",
+    "bagalkote_KA/137",
+    "gadag_KA/287",
+    "dharwad_KA/254",
+    "sindhudurg_MH/626"
+  ],
+  "bengaluru rural_KA/171": [
+    "ramanagara_KA/566",
+    "chikkaballapura_KA/218",
+    "kolar_KA/406",
+    "tumakuru_KA/677",
+    "bengaluru urban_KA/172",
+    "krishnagiri_TN/421"
+  ],
+  "bengaluru urban_KA/172": [
+    "krishnagiri_TN/421",
+    "bengaluru rural_KA/171",
+    "ramanagara_KA/566"
+  ],
+  "betul_MP/173": [
+    "khandwa_MP/393",
+    "harda_MP/318",
+    "chhindwara_MP/216",
+    "hoshangabad_MP/328",
+    "amravati_MH/117"
+  ],
+  "bhadohi_UP/174": [
+    "varanasi_UP/702",
+    "jaunpur_UP/350",
+    "mirzapur_UP/473",
+    "prayagraj_UP/544"
+  ],
+  "bhadrak_OR/175": [
+    "kendrapara_OR/390",
+    "balasore_OR/143",
+    "kendujhar_OR/391",
+    "jajpur_OR/337"
+  ],
+  "bhagalpur_BR/176": [
+    "godda_JH/302",
+    "purnia_BR/553",
+    "munger_BR/482",
+    "katihar_BR/387",
+    "banka_BR/154",
+    "khagaria_BR/392",
+    "madhepura_BR/449",
+    "sahibganj_JH/589"
+  ],
+  "bhandara_MH/177": [
+    "balaghat_MP/141",
+    "gadchiroli_MH/288",
+    "gondia_MH/305",
+    "chandrapur_MH/210",
+    "nagpur_MH/491"
+  ],
+  "bharatpur_RJ/178": [
+    "dausa_RJ/240",
+    "mathura_UP/468",
+    "alwar_RJ/113",
+    "karauli_RJ/380",
+    "agra_UP/102",
+    "nuh_HR/512",
+    "dholpur_RJ/256"
+  ],
+  "bharuch_GJ/179": [
+    "vadodara_GJ/699",
+    "narmada_GJ/499",
+    "surat_GJ/654",
+    "anand_GJ/121"
+  ],
+  "bhavnagar_GJ/180": [
+    "botad_GJ/194",
+    "ahmedabad_GJ/103",
+    "amreli_GJ/118"
+  ],
+  "bhilwara_RJ/181": [
+    "bundi_RJ/200",
+    "tonk_RJ/675",
+    "neemuch_MP/505",
+    "rajsamand_RJ/565",
+    "ajmer_RJ/106",
+    "chittorgarh_RJ/223"
+  ],
+  "bhind_MP/182": [
+    "etawah_UP/277",
+    "jalaun_UP/339",
+    "morena_MP/479",
+    "gwalior_MP/313",
+    "jhansi_UP/355",
+    "agra_UP/102",
+    "datia_MP/239"
+  ],
+  "bhiwani_HR/183": [
+    "mahendragarh_HR/455",
+    "charkhi dadri_HR/212",
+    "jhunjhunu_RJ/358",
+    "rohtak_HR/579",
+    "hanumangarh_RJ/316",
+    "churu_RJ/224",
+    "hisar_HR/326"
+  ],
+  "bhojpur_BR/184": [
+    "buxar_BR/202",
+    "ballia_UP/145",
+    "rohtas_BR/580",
+    "saran_BR/600",
+    "arwal_BR/130",
+    "patna_BR/533"
+  ],
+  "bhopal_MP/185": [
+    "sehore_MP/604",
+    "rajgarh_MP/561",
+    "guna_MP/309",
+    "raisen_MP/560",
+    "vidisha_MP/704"
+  ],
+  "bidar_KA/186": [
+    "latur_MH/435",
+    "nanded_MH/496",
+    "kalaburagi_KA/365",
+    "osmanabad_MH/513",
+    "unknown_TG/689"
+  ],
+  "bijapur_CT/187": [
+    "gadchiroli_MH/288",
+    "sukma_CT/649",
+    "dakshin bastar dantewada_CT/231",
+    "narayanpur_CT/498",
+    "unknown_TG/689"
+  ],
+  "bijnor_UP/188": [
+    "amroha_UP/120",
+    "haridwar_UT/320",
+    "muzaffarnagar_UP/484",
+    "udham singh nagar_UT/679",
+    "pauri garhwal_UT/534",
+    "nainital_UT/492",
+    "moradabad_UP/477",
+    "meerut_UP/471"
+  ],
+  "bikaner_RJ/189": [
+    "jaisalmer_RJ/336",
+    "nagaur_RJ/490",
+    "hanumangarh_RJ/316",
+    "ganganagar_RJ/292",
+    "churu_RJ/224",
+    "jodhpur_RJ/360"
+  ],
+  "bilaspur_CT/190": [
+    "mungeli_CT/481",
+    "baloda bazar_CT/147",
+    "korba_CT/414",
+    "anuppur_MP/126",
+    "janjgir champa_CT/348",
+    "koriya_CT/415"
+  ],
+  "bilaspur_HP/191": [
+    "hamirpur_HP/314",
+    "rupnagar_PB/582",
+    "una_HP/684",
+    "solan_HP/636",
+    "mandi_HP/463"
+  ],
+  "birbhum_WB/192": [
+    "purba bardhaman_WB/550",
+    "paschim bardhaman_WB/527",
+    "murshidabad_WB/483",
+    "dumka_JH/263",
+    "pakur_JH/515",
+    "jamtara_JH/346"
+  ],
+  "bokaro_JH/193": [
+    "dhanbad_JH/251",
+    "ramgarh_JH/569",
+    "hazaribagh_JH/324",
+    "giridih_JH/301",
+    "purulia_WB/554"
+  ],
+  "botad_GJ/194": [
+    "amreli_GJ/118",
+    "ahmedabad_GJ/103",
+    "bhavnagar_GJ/180",
+    "rajkot_GJ/562",
+    "surendranagar_GJ/655"
+  ],
+  "boudh_OR/195": [
+    "angul_OR/124",
+    "subarnapur_OR/648",
+    "nayagarh_OR/504",
+    "balangir_OR/142",
+    "kandhamal_OR/371"
+  ],
+  "budaun_UP/196": [
+    "rampur_UP/570",
+    "shahjahanpur_UP/609",
+    "aligarh_UP/109",
+    "bareilly_UP/160",
+    "kasganj_UP/385",
+    "moradabad_UP/477",
+    "farrukhabad_UP/280",
+    "sambhal_UP/595"
+  ],
+  "budgam_JK/197": [
+    "srinagar_JK/647",
+    "shopiyan_JK/619",
+    "pulwama_JK/547",
+    "baramulla_JK/158",
+    "kulgam_JK/422",
+    "punch_JK/548"
+  ],
+  "bulandshahr_UP/198": [
+    "amroha_UP/120",
+    "hapur_UP/317",
+    "gautam buddha nagar_UP/296",
+    "aligarh_UP/109",
+    "sambhal_UP/595"
+  ],
+  "buldhana_MH/199": [
+    "jalgaon_MH/340",
+    "jalna_MH/341",
+    "washim_MH/711",
+    "burhanpur_MP/201",
+    "akola_MH/107",
+    "parbhani_MH/526",
+    "amravati_MH/117"
+  ],
+  "bundi_RJ/200": [
+    "sawai madhopur_RJ/603",
+    "tonk_RJ/675",
+    "bhilwara_RJ/181",
+    "kota_RJ/416",
+    "chittorgarh_RJ/223"
+  ],
+  "burhanpur_MP/201": [
+    "jalgaon_MH/340",
+    "khandwa_MP/393",
+    "buldhana_MH/199",
+    "amravati_MH/117",
+    "khargone_MP/394"
+  ],
+  "buxar_BR/202": [
+    "ballia_UP/145",
+    "rohtas_BR/580",
+    "ghazipur_UP/299",
+    "kaimur_BR/363",
+    "bhojpur_BR/184"
+  ],
+  "chamarajanagara_KA/203": [
+    "ramanagara_KA/566",
+    "dharmapuri_TN/253",
+    "salem_TN/591",
+    "mandya_KA/466",
+    "erode_TN/275",
+    "mysuru_KA/486",
+    "nilgiris_TN/506",
+    "krishnagiri_TN/421",
+    "wayanad_KL/712"
+  ],
+  "chamba_HP/204": [
+    "pathankot_PB/531",
+    "doda_JK/262",
+    "kangra_HP/372",
+    "kathua_JK/386",
+    "kishtwar_JK/402",
+    "lahaul and spiti_HP/430"
+  ],
+  "chamoli_UT/205": [
+    "rudraprayag_UT/581",
+    "uttarkashi_UT/698",
+    "almora_UT/112",
+    "bageshwar_UT/138",
+    "pauri garhwal_UT/534",
+    "pithoragarh_UT/539"
+  ],
+  "champawat_UT/206": [
+    "pithoragarh_UT/539",
+    "udham singh nagar_UT/679",
+    "almora_UT/112",
+    "nainital_UT/492"
+  ],
+  "champhai_MZ/207": [
+    "serchhip_MZ/606",
+    "aizawl_MZ/105",
+    "unknown_MN/687"
+  ],
+  "chandauli_UP/208": [
+    "sonbhadra_UP/638",
+    "mirzapur_UP/473",
+    "varanasi_UP/702",
+    "ghazipur_UP/299",
+    "kaimur_BR/363"
+  ],
+  "chandigarh_CH/209": [
+    "s.a.s. nagar_PB/583",
+    "panchkula_HR/521"
+  ],
+  "chandrapur_MH/210": [
+    "wardha_MH/710",
+    "gadchiroli_MH/288",
+    "yavatmal_MH/726",
+    "bhandara_MH/177",
+    "unknown_TG/689",
+    "nagpur_MH/491"
+  ],
+  "changlang_AR/211": [
+    "namsai_AR/495",
+    "unknown_AS/685",
+    "tirap_AR/670",
+    "anjaw_AR/125",
+    "lohit_AR/440"
+  ],
+  "charkhi dadri_HR/212": [
+    "mahendragarh_HR/455",
+    "bhiwani_HR/183",
+    "rohtak_HR/579",
+    "jhajjar_HR/353"
+  ],
+  "chatra_JH/213": [
+    "latehar_JH/434",
+    "gaya_BR/297",
+    "hazaribagh_JH/324",
+    "ranchi_JH/571",
+    "palamu_JH/517"
+  ],
+  "chennai_TN/214": [
+    "kancheepuram_TN/370",
+    "thiruvallur_TN/664"
+  ],
+  "chhatarpur_MP/215": [
+    "tikamgarh_MP/669",
+    "sagar_MP/586",
+    "jhansi_UP/355",
+    "mahoba_UP/457",
+    "lalitpur_UP/433",
+    "damoh_MP/235",
+    "panna_MP/524",
+    "banda_UP/152"
+  ],
+  "chhindwara_MP/216": [
+    "seoni_MP/605",
+    "narsinghpur_MP/500",
+    "betul_MP/173",
+    "hoshangabad_MP/328",
+    "amravati_MH/117",
+    "nagpur_MH/491"
+  ],
+  "chhota udaipur_GJ/217": [
+    "dahod_GJ/230",
+    "vadodara_GJ/699",
+    "panchmahal_GJ/522",
+    "narmada_GJ/499",
+    "nandurbar_MH/497",
+    "alirajpur_MP/111"
+  ],
+  "chikkaballapura_KA/218": [
+    "anantapur_AP/122",
+    "kolar_KA/406",
+    "tumakuru_KA/677",
+    "bengaluru rural_KA/171",
+    "chittoor_AP/222"
+  ],
+  "chikkamagaluru_KA/219": [
+    "dakshina kannada_KA/233",
+    "chitradurga_KA/220",
+    "shivamogga_KA/617",
+    "davanagere_KA/241",
+    "tumakuru_KA/677",
+    "hassan_KA/321",
+    "udupi_KA/681"
+  ],
+  "chitradurga_KA/220": [
+    "anantapur_AP/122",
+    "davanagere_KA/241",
+    "tumakuru_KA/677",
+    "ballari_KA/144",
+    "chikkamagaluru_KA/219"
+  ],
+  "chitrakoot_UP/221": [
+    "satna_MP/602",
+    "fatehpur_UP/283",
+    "kaushambi_UP/389",
+    "rewa_MP/576",
+    "prayagraj_UP/544",
+    "banda_UP/152"
+  ],
+  "chittoor_AP/222": [
+    "anantapur_AP/122",
+    "chikkaballapura_KA/218",
+    "y.s.r. kadapa_AP/723",
+    "vellore_TN/703",
+    "kolar_KA/406",
+    "s.p.s. nellore_AP/584",
+    "krishnagiri_TN/421",
+    "thiruvallur_TN/664"
+  ],
+  "chittorgarh_RJ/223": [
+    "bundi_RJ/200",
+    "neemuch_MP/505",
+    "bhilwara_RJ/181",
+    "rajsamand_RJ/565",
+    "kota_RJ/416",
+    "udaipur_RJ/678",
+    "mandsaur_MP/465",
+    "pratapgarh_RJ/542"
+  ],
+  "churu_RJ/224": [
+    "bhiwani_HR/183",
+    "nagaur_RJ/490",
+    "jhunjhunu_RJ/358",
+    "sikar_RJ/624",
+    "hanumangarh_RJ/316",
+    "bikaner_RJ/189"
+  ],
+  "coimbatore_TN/225": [
+    "tiruppur_TN/673",
+    "ernakulam_KL/274",
+    "palakkad_KL/516",
+    "erode_TN/275",
+    "thrissur_KL/668",
+    "nilgiris_TN/506",
+    "idukki_KL/331"
+  ],
+  "cooch behar_WB/226": [
+    "alipurduar_WB/110",
+    "unknown_AS/685",
+    "jalpaiguri_WB/343"
+  ],
+  "cuddalore_TN/227": [
+    "ariyalur_TN/129",
+    "kallakurichi_TN/368",
+    "nagapattinam_TN/489",
+    "thanjavur_TN/662",
+    "puducherry_PY/545",
+    "viluppuram_TN/706",
+    "perambalur_TN/535"
+  ],
+  "cuttack_OR/228": [
+    "jagatsinghpur_OR/334",
+    "angul_OR/124",
+    "jajpur_OR/337",
+    "dhenkanal_OR/255",
+    "kendrapara_OR/390",
+    "nayagarh_OR/504",
+    "khordha_OR/396",
+    "puri_OR/552"
+  ],
+  "dadra and nagar haveli_DN/229": [
+    "palghar_MH/518",
+    "valsad_GJ/701"
+  ],
+  "dahod_GJ/230": [
+    "mahisagar_GJ/456",
+    "chhota udaipur_GJ/217",
+    "jhabua_MP/352",
+    "banswara_RJ/156",
+    "panchmahal_GJ/522",
+    "alirajpur_MP/111"
+  ],
+  "dakshin bastar dantewada_CT/231": [
+    "kondagaon_CT/411",
+    "sukma_CT/649",
+    "narayanpur_CT/498",
+    "bastar_CT/165",
+    "bijapur_CT/187"
+  ],
+  "dakshin dinajpur_WB/232": [
+    "uttar dinajpur_WB/696",
+    "malda_WB/460"
+  ],
+  "dakshina kannada_KA/233": [
+    "kodagu_KA/403",
+    "chikkamagaluru_KA/219",
+    "hassan_KA/321",
+    "kasaragod_KL/384",
+    "udupi_KA/681"
+  ],
+  "daman_DN/234": [
+    "valsad_GJ/701"
+  ],
+  "damoh_MP/235": [
+    "narsinghpur_MP/500",
+    "sagar_MP/586",
+    "katni_MP/388",
+    "jabalpur_MP/333",
+    "panna_MP/524",
+    "chhatarpur_MP/215"
+  ],
+  "dang_GJ/236": [
+    "dhule_MH/257",
+    "nashik_MH/501",
+    "tapi_GJ/657",
+    "navsari_GJ/502"
+  ],
+  "darbhanga_BR/237": [
+    "muzaffarpur_BR/485",
+    "samastipur_BR/592",
+    "sitamarhi_BR/632",
+    "madhubani_BR/450",
+    "saharsa_BR/588"
+  ],
+  "darjeeling_WB/238": [
+    "unknown_SK/688",
+    "jalpaiguri_WB/343",
+    "kalimpong_WB/367",
+    "kishanganj_BR/401",
+    "uttar dinajpur_WB/696"
+  ],
+  "datia_MP/239": [
+    "bhind_MP/182",
+    "gwalior_MP/313",
+    "jhansi_UP/355",
+    "lalitpur_UP/433",
+    "shivpuri_MP/618"
+  ],
+  "dausa_RJ/240": [
+    "sawai madhopur_RJ/603",
+    "tonk_RJ/675",
+    "alwar_RJ/113",
+    "karauli_RJ/380",
+    "jaipur_RJ/335",
+    "bharatpur_RJ/178"
+  ],
+  "davanagere_KA/241": [
+    "chitradurga_KA/220",
+    "shivamogga_KA/617",
+    "haveri_KA/323",
+    "ballari_KA/144",
+    "chikkamagaluru_KA/219"
+  ],
+  "dehradun_UT/242": [
+    "haridwar_UT/320",
+    "uttarkashi_UT/698",
+    "saharanpur_UP/587",
+    "pauri garhwal_UT/534",
+    "shimla_HP/616",
+    "tehri garhwal_UT/660",
+    "sirmaur_HP/629"
+  ],
+  "delhi_DL/243": [
+    "jhajjar_HR/353",
+    "ghaziabad_UP/298",
+    "gautam buddha nagar_UP/296",
+    "sonipat_HR/639",
+    "gurugram_HR/312",
+    "baghpat_UP/139",
+    "faridabad_HR/278"
+  ],
+  "deogarh_OR/244": [
+    "sundargarh_OR/651",
+    "angul_OR/124",
+    "sambalpur_OR/594"
+  ],
+  "deoghar_JH/245": [
+    "jamui_BR/347",
+    "dumka_JH/263",
+    "banka_BR/154",
+    "giridih_JH/301",
+    "jamtara_JH/346"
+  ],
+  "deoria_UP/246": [
+    "gopalganj_BR/306",
+    "ballia_UP/145",
+    "siwan_BR/635",
+    "kushinagar_UP/428",
+    "gorakhpur_UP/307",
+    "mau_UP/469"
+  ],
+  "devbhumi dwarka_GJ/247": [
+    "jamnagar_GJ/345",
+    "porbandar_GJ/540"
+  ],
+  "dewas_MP/248": [
+    "shajapur_MP/610",
+    "khandwa_MP/393",
+    "sehore_MP/604",
+    "indore_MP/332",
+    "harda_MP/318",
+    "ujjain_MP/682",
+    "khargone_MP/394"
+  ],
+  "dhalai_TR/249": [
+    "unokoti_TR/691",
+    "gomati_TR/303",
+    "north tripura_TR/510",
+    "khowai_TR/397"
+  ],
+  "dhamtari_CT/250": [
+    "kondagaon_CT/411",
+    "nabarangapur_OR/487",
+    "gariaband_CT/295",
+    "raipur_CT/559",
+    "uttar bastar kanker_CT/695",
+    "balod_CT/146",
+    "durg_CT/265"
+  ],
+  "dhanbad_JH/251": [
+    "paschim bardhaman_WB/527",
+    "giridih_JH/301",
+    "jamtara_JH/346",
+    "purulia_WB/554",
+    "bokaro_JH/193"
+  ],
+  "dhar_MP/252": [
+    "barwani_MP/164",
+    "indore_MP/332",
+    "jhabua_MP/352",
+    "ratlam_MP/572",
+    "ujjain_MP/682",
+    "alirajpur_MP/111",
+    "khargone_MP/394"
+  ],
+  "dharmapuri_TN/253": [
+    "kallakurichi_TN/368",
+    "salem_TN/591",
+    "tiruvannamalai_TN/674",
+    "chamarajanagara_KA/203",
+    "erode_TN/275",
+    "krishnagiri_TN/421"
+  ],
+  "dharwad_KA/254": [
+    "belagavi_KA/170",
+    "haveri_KA/323",
+    "uttara kannada_KA/697",
+    "gadag_KA/287"
+  ],
+  "dhenkanal_OR/255": [
+    "angul_OR/124",
+    "cuttack_OR/228",
+    "jajpur_OR/337",
+    "kendujhar_OR/391"
+  ],
+  "dholpur_RJ/256": [
+    "karauli_RJ/380",
+    "bharatpur_RJ/178",
+    "agra_UP/102",
+    "morena_MP/479"
+  ],
+  "dhule_MH/257": [
+    "jalgaon_MH/340",
+    "barwani_MP/164",
+    "dang_GJ/236",
+    "tapi_GJ/657",
+    "nashik_MH/501",
+    "nandurbar_MH/497"
+  ],
+  "dimapur_NL/258": [
+    "peren_NL/536",
+    "kohima_NL/405",
+    "unknown_AS/685"
+  ],
+  "dindigul_TN/259": [
+    "tiruppur_TN/673",
+    "tiruchirappalli_TN/671",
+    "madurai_TN/451",
+    "theni_TN/663",
+    "karur_TN/383",
+    "idukki_KL/331"
+  ],
+  "dindori_MP/260": [
+    "kabeerdham_CT/362",
+    "anuppur_MP/126",
+    "mandla_MP/464",
+    "jabalpur_MP/333",
+    "mungeli_CT/481",
+    "umaria_MP/683"
+  ],
+  "diu_DN/261": [
+    "gir somnath_GJ/300"
+  ],
+  "doda_JK/262": [
+    "anantnag_JK/123",
+    "ramban_JK/568",
+    "kathua_JK/386",
+    "kishtwar_JK/402",
+    "udhampur_JK/680",
+    "chamba_HP/204"
+  ],
+  "dumka_JH/263": [
+    "godda_JH/302",
+    "birbhum_WB/192",
+    "pakur_JH/515",
+    "banka_BR/154",
+    "jamtara_JH/346",
+    "deoghar_JH/245"
+  ],
+  "dungarpur_RJ/264": [
+    "udaipur_RJ/678",
+    "banswara_RJ/156",
+    "aravalli_GJ/128",
+    "mahisagar_GJ/456",
+    "pratapgarh_RJ/542"
+  ],
+  "durg_CT/265": [
+    "raipur_CT/559",
+    "dhamtari_CT/250",
+    "balod_CT/146",
+    "bametara_CT/150",
+    "rajnandgaon_CT/563"
+  ],
+  "east champaran_BR/266": [
+    "gopalganj_BR/306",
+    "muzaffarpur_BR/485",
+    "west champaran_BR/713",
+    "sitamarhi_BR/632",
+    "sheohar_BR/613"
+  ],
+  "east garo hills_ML/267": [
+    "south garo hills_ML/641",
+    "north garo hills_ML/509",
+    "west khasi hills_ML/718",
+    "west garo hills_ML/714"
+  ],
+  "east godavari_AP/268": [
+    "malkangiri_OR/461",
+    "sukma_CT/649",
+    "visakhapatnam_AP/708",
+    "unknown_TG/689",
+    "west godavari_AP/715"
+  ],
+  "east jaintia hills_ML/269": [
+    "unknown_AS/685",
+    "west jaintia hills_ML/716"
+  ],
+  "east kameng_AR/270": [
+    "papum pare_AR/525",
+    "pakke kessang_AR/514",
+    "kurung kumey_AR/427",
+    "west kameng_AR/717",
+    "tawang_AR/659"
+  ],
+  "east khasi hills_ML/271": [
+    "ribhoi_ML/578",
+    "south west khasi hills_ML/644",
+    "west khasi hills_ML/718",
+    "west jaintia hills_ML/716"
+  ],
+  "east siang_AR/272": [
+    "unknown_AS/685",
+    "lower dibang valley_AR/443",
+    "siang_AR/621",
+    "upper siang_AR/693",
+    "lower siang_AR/444"
+  ],
+  "east singhbhum_JH/273": [
+    "jhargram_WB/356",
+    "saraikela-kharsawan_JH/599",
+    "mayurbhanj_OR/470",
+    "purulia_WB/554"
+  ],
+  "ernakulam_KL/274": [
+    "thrissur_KL/668",
+    "kottayam_KL/417",
+    "alappuzha_KL/108",
+    "coimbatore_TN/225",
+    "idukki_KL/331"
+  ],
+  "erode_TN/275": [
+    "tiruppur_TN/673",
+    "dharmapuri_TN/253",
+    "salem_TN/591",
+    "karur_TN/383",
+    "chamarajanagara_KA/203",
+    "namakkal_TN/494",
+    "nilgiris_TN/506",
+    "coimbatore_TN/225"
+  ],
+  "etah_UP/276": [
+    "mainpuri_UP/458",
+    "firozabad_UP/286",
+    "kasganj_UP/385",
+    "agra_UP/102",
+    "hathras_UP/322",
+    "farrukhabad_UP/280"
+  ],
+  "etawah_UP/277": [
+    "auraiya_UP/132",
+    "mainpuri_UP/458",
+    "bhind_MP/182",
+    "jalaun_UP/339",
+    "firozabad_UP/286",
+    "kannauj_UP/373",
+    "agra_UP/102"
+  ],
+  "faridabad_HR/278": [
+    "gautam buddha nagar_UP/296",
+    "gurugram_HR/312",
+    "palwal_HR/520",
+    "delhi_DL/243"
+  ],
+  "faridkot_PB/279": [
+    "ferozepur_PB/285",
+    "bathinda_PB/167",
+    "moga_PB/474",
+    "sri muktsar sahib_PB/645"
+  ],
+  "farrukhabad_UP/280": [
+    "mainpuri_UP/458",
+    "shahjahanpur_UP/609",
+    "kannauj_UP/373",
+    "kasganj_UP/385",
+    "hardoi_UP/319",
+    "budaun_UP/196",
+    "etah_UP/276"
+  ],
+  "fatehabad_HR/281": [
+    "sirsa_HR/631",
+    "sangrur_PB/597",
+    "mansa_PB/467",
+    "hanumangarh_RJ/316",
+    "jind_HR/359",
+    "hisar_HR/326"
+  ],
+  "fatehgarh sahib_PB/282": [
+    "s.a.s. nagar_PB/583",
+    "ludhiana_PB/447",
+    "sangrur_PB/597",
+    "patiala_PB/532",
+    "rupnagar_PB/582"
+  ],
+  "fatehpur_UP/283": [
+    "kaushambi_UP/389",
+    "rae bareli_UP/555",
+    "unnao_UP/690",
+    "chitrakoot_UP/221",
+    "kanpur nagar_UP/376",
+    "banda_UP/152",
+    "hamirpur_UP/315",
+    "pratapgarh_UP/543"
+  ],
+  "fazilka_PB/284": [
+    "ferozepur_PB/285",
+    "hanumangarh_RJ/316",
+    "ganganagar_RJ/292",
+    "sri muktsar sahib_PB/645"
+  ],
+  "ferozepur_PB/285": [
+    "faridkot_PB/279",
+    "jalandhar_PB/338",
+    "fazilka_PB/284",
+    "kapurthala_PB/378",
+    "sri muktsar sahib_PB/645",
+    "tarn taran_PB/658",
+    "moga_PB/474"
+  ],
+  "firozabad_UP/286": [
+    "agra_UP/102",
+    "mainpuri_UP/458",
+    "etawah_UP/277",
+    "etah_UP/276"
+  ],
+  "gadag_KA/287": [
+    "haveri_KA/323",
+    "ballari_KA/144",
+    "koppal_KA/412",
+    "bagalkote_KA/137",
+    "belagavi_KA/170",
+    "dharwad_KA/254"
+  ],
+  "gadchiroli_MH/288": [
+    "chandrapur_MH/210",
+    "bhandara_MH/177",
+    "gondia_MH/305",
+    "uttar bastar kanker_CT/695",
+    "narayanpur_CT/498",
+    "rajnandgaon_CT/563",
+    "unknown_TG/689",
+    "bijapur_CT/187"
+  ],
+  "gajapati_OR/289": [
+    "rayagada_OR/574",
+    "ganjam_OR/293",
+    "kandhamal_OR/371",
+    "srikakulam_AP/646"
+  ],
+  "ganderbal_JK/290": [
+    "srinagar_JK/647",
+    "bandipora_JK/153",
+    "anantnag_JK/123",
+    "kargil_LA/381"
+  ],
+  "gandhinagar_GJ/291": [
+    "aravalli_GJ/128",
+    "ahmedabad_GJ/103",
+    "mehsana_GJ/472",
+    "kheda_GJ/395",
+    "sabarkantha_GJ/585"
+  ],
+  "ganganagar_RJ/292": [
+    "bikaner_RJ/189",
+    "hanumangarh_RJ/316",
+    "fazilka_PB/284"
+  ],
+  "ganjam_OR/293": [
+    "srikakulam_AP/646",
+    "gajapati_OR/289",
+    "puri_OR/552",
+    "khordha_OR/396",
+    "nayagarh_OR/504",
+    "kandhamal_OR/371"
+  ],
+  "garhwa_JH/294": [
+    "sonbhadra_UP/638",
+    "rohtas_BR/580",
+    "latehar_JH/434",
+    "palamu_JH/517",
+    "balrampur_CT/148"
+  ],
+  "gariaband_CT/295": [
+    "mahasamund_CT/453",
+    "nabarangapur_OR/487",
+    "raipur_CT/559",
+    "dhamtari_CT/250",
+    "kalahandi_OR/366",
+    "nuapada_OR/511"
+  ],
+  "gautam buddha nagar_UP/296": [
+    "ghaziabad_UP/298",
+    "bulandshahr_UP/198",
+    "hapur_UP/317",
+    "aligarh_UP/109",
+    "palwal_HR/520",
+    "delhi_DL/243",
+    "faridabad_HR/278"
+  ],
+  "gaya_BR/297": [
+    "jehanabad_BR/351",
+    "chatra_JH/213",
+    "hazaribagh_JH/324",
+    "nawada_BR/503",
+    "palamu_JH/517",
+    "nalanda_BR/493",
+    "arwal_BR/130",
+    "koderma_JH/404",
+    "aurangabad_BR/133"
+  ],
+  "ghaziabad_UP/298": [
+    "hapur_UP/317",
+    "gautam buddha nagar_UP/296",
+    "baghpat_UP/139",
+    "delhi_DL/243",
+    "meerut_UP/471"
+  ],
+  "ghazipur_UP/299": [
+    "buxar_BR/202",
+    "ballia_UP/145",
+    "varanasi_UP/702",
+    "chandauli_UP/208",
+    "azamgarh_UP/136",
+    "jaunpur_UP/350",
+    "kaimur_BR/363",
+    "mau_UP/469"
+  ],
+  "gir somnath_GJ/300": [
+    "diu_DN/261",
+    "junagadh_GJ/361",
+    "amreli_GJ/118"
+  ],
+  "giridih_JH/301": [
+    "bokaro_JH/193",
+    "jamui_BR/347",
+    "dhanbad_JH/251",
+    "hazaribagh_JH/324",
+    "nawada_BR/503",
+    "jamtara_JH/346",
+    "koderma_JH/404",
+    "deoghar_JH/245"
+  ],
+  "godda_JH/302": [
+    "dumka_JH/263",
+    "banka_BR/154",
+    "pakur_JH/515",
+    "bhagalpur_BR/176",
+    "sahibganj_JH/589"
+  ],
+  "gomati_TR/303": [
+    "sipahijala_TR/628",
+    "khowai_TR/397",
+    "dhalai_TR/249",
+    "south tripura_TR/642"
+  ],
+  "gonda_UP/304": [
+    "shrawasti_UP/620",
+    "bahraich_UP/140",
+    "siddharthnagar_UP/622",
+    "basti_UP/166",
+    "ayodhya_UP/135",
+    "barabanki_UP/157",
+    "balrampur_UP/149"
+  ],
+  "gondia_MH/305": [
+    "rajnandgaon_CT/563",
+    "gadchiroli_MH/288",
+    "bhandara_MH/177",
+    "balaghat_MP/141"
+  ],
+  "gopalganj_BR/306": [
+    "muzaffarpur_BR/485",
+    "west champaran_BR/713",
+    "siwan_BR/635",
+    "deoria_UP/246",
+    "east champaran_BR/266",
+    "kushinagar_UP/428",
+    "saran_BR/600"
+  ],
+  "gorakhpur_UP/307": [
+    "siddharthnagar_UP/622",
+    "deoria_UP/246",
+    "ambedkar nagar_UP/115",
+    "azamgarh_UP/136",
+    "kushinagar_UP/428",
+    "maharajganj_UP/452",
+    "sant kabir nagar_UP/598",
+    "mau_UP/469"
+  ],
+  "gumla_JH/308": [
+    "lohardaga_JH/439",
+    "simdega_JH/625",
+    "latehar_JH/434",
+    "jashpur_CT/349",
+    "ranchi_JH/571",
+    "khunti_JH/398",
+    "balrampur_CT/148"
+  ],
+  "guna_MP/309": [
+    "rajgarh_MP/561",
+    "ashoknagar_MP/131",
+    "jhalawar_RJ/354",
+    "bhopal_MP/185",
+    "baran_RJ/159",
+    "shivpuri_MP/618",
+    "vidisha_MP/704"
+  ],
+  "guntur_AP/310": [
+    "unknown_TG/689",
+    "prakasam_AP/541",
+    "krishna_AP/420",
+    "kurnool_AP/425"
+  ],
+  "gurdaspur_PB/311": [
+    "pathankot_PB/531",
+    "amritsar_PB/119",
+    "kangra_HP/372",
+    "kapurthala_PB/378",
+    "hoshiarpur_PB/329"
+  ],
+  "gurugram_HR/312": [
+    "jhajjar_HR/353",
+    "rewari_HR/577",
+    "palwal_HR/520",
+    "delhi_DL/243",
+    "nuh_HR/512",
+    "faridabad_HR/278"
+  ],
+  "gwalior_MP/313": [
+    "morena_MP/479",
+    "shivpuri_MP/618",
+    "bhind_MP/182",
+    "datia_MP/239"
+  ],
+  "hamirpur_HP/314": [
+    "bilaspur_HP/191",
+    "una_HP/684",
+    "kangra_HP/372",
+    "mandi_HP/463"
+  ],
+  "hamirpur_UP/315": [
+    "kanpur nagar_UP/376",
+    "mahoba_UP/457",
+    "kanpur dehat_UP/375",
+    "jhansi_UP/355",
+    "jalaun_UP/339",
+    "banda_UP/152",
+    "fatehpur_UP/283"
+  ],
+  "hanumangarh_RJ/316": [
+    "sirsa_HR/631",
+    "bhiwani_HR/183",
+    "sri muktsar sahib_PB/645",
+    "fazilka_PB/284",
+    "ganganagar_RJ/292",
+    "bikaner_RJ/189",
+    "churu_RJ/224",
+    "hisar_HR/326",
+    "fatehabad_HR/281"
+  ],
+  "hapur_UP/317": [
+    "amroha_UP/120",
+    "ghaziabad_UP/298",
+    "bulandshahr_UP/198",
+    "gautam buddha nagar_UP/296",
+    "meerut_UP/471"
+  ],
+  "harda_MP/318": [
+    "khandwa_MP/393",
+    "sehore_MP/604",
+    "dewas_MP/248",
+    "betul_MP/173",
+    "hoshangabad_MP/328"
+  ],
+  "hardoi_UP/319": [
+    "sitapur_UP/633",
+    "lakhimpur kheri_UP/431",
+    "shahjahanpur_UP/609",
+    "kannauj_UP/373",
+    "unnao_UP/690",
+    "kanpur nagar_UP/376",
+    "lucknow_UP/446",
+    "farrukhabad_UP/280"
+  ],
+  "haridwar_UT/320": [
+    "muzaffarnagar_UP/484",
+    "saharanpur_UP/587",
+    "pauri garhwal_UT/534",
+    "bijnor_UP/188",
+    "dehradun_UT/242"
+  ],
+  "hassan_KA/321": [
+    "dakshina kannada_KA/233",
+    "tumakuru_KA/677",
+    "kodagu_KA/403",
+    "mysuru_KA/486",
+    "chikkamagaluru_KA/219",
+    "mandya_KA/466"
+  ],
+  "hathras_UP/322": [
+    "aligarh_UP/109",
+    "kasganj_UP/385",
+    "agra_UP/102",
+    "mathura_UP/468",
+    "etah_UP/276"
+  ],
+  "haveri_KA/323": [
+    "shivamogga_KA/617",
+    "davanagere_KA/241",
+    "uttara kannada_KA/697",
+    "ballari_KA/144",
+    "gadag_KA/287",
+    "dharwad_KA/254"
+  ],
+  "hazaribagh_JH/324": [
+    "chatra_JH/213",
+    "gaya_BR/297",
+    "ramgarh_JH/569",
+    "giridih_JH/301",
+    "ranchi_JH/571",
+    "koderma_JH/404",
+    "bokaro_JH/193"
+  ],
+  "hingoli_MH/325": [
+    "washim_MH/711",
+    "parbhani_MH/526",
+    "nanded_MH/496",
+    "yavatmal_MH/726"
+  ],
+  "hisar_HR/326": [
+    "bhiwani_HR/183",
+    "rohtak_HR/579",
+    "hanumangarh_RJ/316",
+    "jind_HR/359",
+    "fatehabad_HR/281"
+  ],
+  "hooghly_WB/327": [
+    "purba bardhaman_WB/550",
+    "paschim medinipur_WB/528",
+    "bankura_WB/155",
+    "nadia_WB/488",
+    "north 24 parganas_WB/508",
+    "howrah_WB/330"
+  ],
+  "hoshangabad_MP/328": [
+    "sehore_MP/604",
+    "narsinghpur_MP/500",
+    "raisen_MP/560",
+    "harda_MP/318",
+    "betul_MP/173",
+    "chhindwara_MP/216"
+  ],
+  "hoshiarpur_PB/329": [
+    "una_HP/684",
+    "gurdaspur_PB/311",
+    "kangra_HP/372",
+    "jalandhar_PB/338",
+    "kapurthala_PB/378",
+    "rupnagar_PB/582",
+    "shahid bhagat singh nagar_PB/608"
+  ],
+  "howrah_WB/330": [
+    "south 24 parganas_WB/640",
+    "paschim medinipur_WB/528",
+    "hooghly_WB/327",
+    "north 24 parganas_WB/508",
+    "kolkata_WB/409",
+    "purba medinipur_WB/551"
+  ],
+  "idukki_KL/331": [
+    "tiruppur_TN/673",
+    "ernakulam_KL/274",
+    "coimbatore_TN/225",
+    "pathanamthitta_KL/530",
+    "theni_TN/663",
+    "virudhunagar_TN/707",
+    "tirunelveli_TN/672",
+    "kottayam_KL/417",
+    "dindigul_TN/259"
+  ],
+  "indore_MP/332": [
+    "dhar_MP/252",
+    "ujjain_MP/682",
+    "dewas_MP/248",
+    "khargone_MP/394"
+  ],
+  "jabalpur_MP/333": [
+    "seoni_MP/605",
+    "narsinghpur_MP/500",
+    "dindori_MP/260",
+    "mandla_MP/464",
+    "katni_MP/388",
+    "damoh_MP/235",
+    "umaria_MP/683"
+  ],
+  "jagatsinghpur_OR/334": [
+    "kendrapara_OR/390",
+    "puri_OR/552",
+    "cuttack_OR/228"
+  ],
+  "jaipur_RJ/335": [
+    "dausa_RJ/240",
+    "tonk_RJ/675",
+    "mahendragarh_HR/455",
+    "alwar_RJ/113",
+    "nagaur_RJ/490",
+    "ajmer_RJ/106",
+    "sikar_RJ/624"
+  ],
+  "jaisalmer_RJ/336": [
+    "jodhpur_RJ/360",
+    "barmer_RJ/162",
+    "bikaner_RJ/189"
+  ],
+  "jajpur_OR/337": [
+    "cuttack_OR/228",
+    "bhadrak_OR/175",
+    "dhenkanal_OR/255",
+    "kendrapara_OR/390",
+    "kendujhar_OR/391"
+  ],
+  "jalandhar_PB/338": [
+    "ludhiana_PB/447",
+    "ferozepur_PB/285",
+    "kapurthala_PB/378",
+    "hoshiarpur_PB/329",
+    "moga_PB/474",
+    "shahid bhagat singh nagar_PB/608"
+  ],
+  "jalaun_UP/339": [
+    "etawah_UP/277",
+    "auraiya_UP/132",
+    "bhind_MP/182",
+    "jhansi_UP/355",
+    "kanpur dehat_UP/375",
+    "hamirpur_UP/315"
+  ],
+  "jalgaon_MH/340": [
+    "dhule_MH/257",
+    "jalna_MH/341",
+    "burhanpur_MP/201",
+    "barwani_MP/164",
+    "buldhana_MH/199",
+    "nashik_MH/501",
+    "unknown_TG/689",
+    "khargone_MP/394",
+    "aurangabad_MH/134"
+  ],
+  "jalna_MH/341": [
+    "jalgaon_MH/340",
+    "beed_MH/168",
+    "parbhani_MH/526",
+    "buldhana_MH/199",
+    "aurangabad_MH/134"
+  ],
+  "jalore_RJ/342": [
+    "kutch_GJ/429",
+    "barmer_RJ/162",
+    "sirohi_RJ/630",
+    "pali_RJ/519",
+    "banaskantha_GJ/151"
+  ],
+  "jalpaiguri_WB/343": [
+    "cooch behar_WB/226",
+    "alipurduar_WB/110",
+    "kalimpong_WB/367",
+    "darjeeling_WB/238"
+  ],
+  "jammu_JK/344": [
+    "rajouri_JK/564",
+    "samba_JK/593",
+    "udhampur_JK/680",
+    "reasi_JK/575"
+  ],
+  "jamnagar_GJ/345": [
+    "rajkot_GJ/562",
+    "devbhumi dwarka_GJ/247",
+    "morbi_GJ/478",
+    "porbandar_GJ/540"
+  ],
+  "jamtara_JH/346": [
+    "paschim bardhaman_WB/527",
+    "birbhum_WB/192",
+    "dhanbad_JH/251",
+    "dumka_JH/263",
+    "giridih_JH/301",
+    "deoghar_JH/245"
+  ],
+  "jamui_BR/347": [
+    "sheikhpura_BR/612",
+    "lakhisarai_BR/432",
+    "munger_BR/482",
+    "nawada_BR/503",
+    "giridih_JH/301",
+    "banka_BR/154",
+    "deoghar_JH/245"
+  ],
+  "janjgir champa_CT/348": [
+    "korba_CT/414",
+    "raigarh_CT/558",
+    "baloda bazar_CT/147",
+    "bilaspur_CT/190"
+  ],
+  "jashpur_CT/349": [
+    "simdega_JH/625",
+    "sundargarh_OR/651",
+    "gumla_JH/308",
+    "surguja_CT/656",
+    "raigarh_CT/558",
+    "balrampur_CT/148"
+  ],
+  "jaunpur_UP/350": [
+    "bhadohi_UP/174",
+    "sultanpur_UP/650",
+    "varanasi_UP/702",
+    "azamgarh_UP/136",
+    "prayagraj_UP/544",
+    "ghazipur_UP/299",
+    "pratapgarh_UP/543"
+  ],
+  "jehanabad_BR/351": [
+    "arwal_BR/130",
+    "patna_BR/533",
+    "gaya_BR/297",
+    "nalanda_BR/493"
+  ],
+  "jhabua_MP/352": [
+    "dahod_GJ/230",
+    "dhar_MP/252",
+    "ratlam_MP/572",
+    "banswara_RJ/156",
+    "alirajpur_MP/111"
+  ],
+  "jhajjar_HR/353": [
+    "charkhi dadri_HR/212",
+    "mahendragarh_HR/455",
+    "sonipat_HR/639",
+    "rewari_HR/577",
+    "gurugram_HR/312",
+    "rohtak_HR/579",
+    "delhi_DL/243"
+  ],
+  "jhalawar_RJ/354": [
+    "agar malwa_MP/101",
+    "rajgarh_MP/561",
+    "guna_MP/309",
+    "kota_RJ/416",
+    "ratlam_MP/572",
+    "mandsaur_MP/465",
+    "baran_RJ/159"
+  ],
+  "jhansi_UP/355": [
+    "tikamgarh_MP/669",
+    "niwari_MP/507",
+    "bhind_MP/182",
+    "jalaun_UP/339",
+    "mahoba_UP/457",
+    "lalitpur_UP/433",
+    "datia_MP/239",
+    "shivpuri_MP/618",
+    "chhatarpur_MP/215",
+    "hamirpur_UP/315"
+  ],
+  "jhargram_WB/356": [
+    "paschim medinipur_WB/528",
+    "east singhbhum_JH/273",
+    "balasore_OR/143",
+    "bankura_WB/155",
+    "purulia_WB/554",
+    "mayurbhanj_OR/470"
+  ],
+  "jharsuguda_OR/357": [
+    "sundargarh_OR/651",
+    "raigarh_CT/558",
+    "sambalpur_OR/594",
+    "bargarh_OR/161"
+  ],
+  "jhunjhunu_RJ/358": [
+    "churu_RJ/224",
+    "mahendragarh_HR/455",
+    "bhiwani_HR/183",
+    "sikar_RJ/624"
+  ],
+  "jind_HR/359": [
+    "panipat_HR/523",
+    "sangrur_PB/597",
+    "sonipat_HR/639",
+    "patiala_PB/532",
+    "rohtak_HR/579",
+    "fatehabad_HR/281",
+    "hisar_HR/326",
+    "kaithal_HR/364",
+    "karnal_HR/382"
+  ],
+  "jodhpur_RJ/360": [
+    "jaisalmer_RJ/336",
+    "nagaur_RJ/490",
+    "barmer_RJ/162",
+    "bikaner_RJ/189",
+    "pali_RJ/519"
+  ],
+  "junagadh_GJ/361": [
+    "rajkot_GJ/562",
+    "gir somnath_GJ/300",
+    "amreli_GJ/118",
+    "porbandar_GJ/540"
+  ],
+  "kabeerdham_CT/362": [
+    "rajnandgaon_CT/563",
+    "balaghat_MP/141",
+    "dindori_MP/260",
+    "mandla_MP/464",
+    "bametara_CT/150",
+    "mungeli_CT/481"
+  ],
+  "kaimur_BR/363": [
+    "buxar_BR/202",
+    "sonbhadra_UP/638",
+    "rohtas_BR/580",
+    "chandauli_UP/208",
+    "ghazipur_UP/299"
+  ],
+  "kaithal_HR/364": [
+    "patiala_PB/532",
+    "kurukshetra_HR/426",
+    "jind_HR/359",
+    "karnal_HR/382"
+  ],
+  "kalaburagi_KA/365": [
+    "yadgir_KA/724",
+    "solapur_MH/637",
+    "vijayapura_KA/705",
+    "bidar_KA/186",
+    "osmanabad_MH/513",
+    "narayanpur_CT/498",
+    "unknown_TG/689"
+  ],
+  "kalahandi_OR/366": [
+    "nabarangapur_OR/487",
+    "gariaband_CT/295",
+    "koraput_OR/413",
+    "rayagada_OR/574",
+    "balangir_OR/142",
+    "nuapada_OR/511",
+    "kandhamal_OR/371"
+  ],
+  "kalimpong_WB/367": [
+    "unknown_SK/688",
+    "jalpaiguri_WB/343",
+    "darjeeling_WB/238"
+  ],
+  "kallakurichi_TN/368": [
+    "dharmapuri_TN/253",
+    "salem_TN/591",
+    "tiruvannamalai_TN/674",
+    "cuddalore_TN/227",
+    "viluppuram_TN/706",
+    "perambalur_TN/535"
+  ],
+  "kamle_AR/369": [
+    "papum pare_AR/525",
+    "unknown_AS/685",
+    "kra daadi_AR/419",
+    "upper subansiri_AR/694",
+    "lower subansiri_AR/445",
+    "lower siang_AR/444"
+  ],
+  "kancheepuram_TN/370": [
+    "chennai_TN/214",
+    "vellore_TN/703",
+    "tiruvannamalai_TN/674",
+    "viluppuram_TN/706",
+    "thiruvallur_TN/664"
+  ],
+  "kandhamal_OR/371": [
+    "gajapati_OR/289",
+    "ganjam_OR/293",
+    "rayagada_OR/574",
+    "kalahandi_OR/366",
+    "nayagarh_OR/504",
+    "balangir_OR/142",
+    "boudh_OR/195"
+  ],
+  "kangra_HP/372": [
+    "pathankot_PB/531",
+    "una_HP/684",
+    "mandi_HP/463",
+    "gurdaspur_PB/311",
+    "hoshiarpur_PB/329",
+    "kullu_HP/423",
+    "lahaul and spiti_HP/430",
+    "chamba_HP/204",
+    "hamirpur_HP/314"
+  ],
+  "kannauj_UP/373": [
+    "etawah_UP/277",
+    "auraiya_UP/132",
+    "mainpuri_UP/458",
+    "hardoi_UP/319",
+    "kanpur dehat_UP/375",
+    "kanpur nagar_UP/376",
+    "farrukhabad_UP/280"
+  ],
+  "kannur_KL/374": [
+    "kozhikode_KL/418",
+    "mahe_PY/454",
+    "kodagu_KA/403",
+    "kasaragod_KL/384",
+    "wayanad_KL/712"
+  ],
+  "kanpur dehat_UP/375": [
+    "jalaun_UP/339",
+    "kannauj_UP/373",
+    "auraiya_UP/132",
+    "kanpur nagar_UP/376",
+    "hamirpur_UP/315"
+  ],
+  "kanpur nagar_UP/376": [
+    "fatehpur_UP/283",
+    "kannauj_UP/373",
+    "hardoi_UP/319",
+    "unnao_UP/690",
+    "kanpur dehat_UP/375",
+    "hamirpur_UP/315"
+  ],
+  "kanyakumari_TN/377": [
+    "tirunelveli_TN/672",
+    "thiruvananthapuram_KL/665"
+  ],
+  "kapurthala_PB/378": [
+    "amritsar_PB/119",
+    "ferozepur_PB/285",
+    "gurdaspur_PB/311",
+    "jalandhar_PB/338",
+    "hoshiarpur_PB/329",
+    "tarn taran_PB/658",
+    "shahid bhagat singh nagar_PB/608"
+  ],
+  "karaikal_PY/379": [
+    "thiruvarur_TN/666",
+    "nagapattinam_TN/489"
+  ],
+  "karauli_RJ/380": [
+    "dausa_RJ/240",
+    "sawai madhopur_RJ/603",
+    "sheopur_MP/614",
+    "bharatpur_RJ/178",
+    "morena_MP/479",
+    "dholpur_RJ/256"
+  ],
+  "kargil_LA/381": [
+    "bandipora_JK/153",
+    "anantnag_JK/123",
+    "leh_LA/437",
+    "ganderbal_JK/290",
+    "kishtwar_JK/402",
+    "lahaul and spiti_HP/430"
+  ],
+  "karnal_HR/382": [
+    "panipat_HR/523",
+    "yamunanagar_HR/725",
+    "saharanpur_UP/587",
+    "kurukshetra_HR/426",
+    "shamli_UP/611",
+    "jind_HR/359",
+    "kaithal_HR/364"
+  ],
+  "karur_TN/383": [
+    "tiruppur_TN/673",
+    "tiruchirappalli_TN/671",
+    "namakkal_TN/494",
+    "erode_TN/275",
+    "dindigul_TN/259"
+  ],
+  "kasaragod_KL/384": [
+    "dakshina kannada_KA/233",
+    "kodagu_KA/403",
+    "kannur_KL/374"
+  ],
+  "kasganj_UP/385": [
+    "aligarh_UP/109",
+    "hathras_UP/322",
+    "budaun_UP/196",
+    "farrukhabad_UP/280",
+    "etah_UP/276"
+  ],
+  "kathua_JK/386": [
+    "pathankot_PB/531",
+    "doda_JK/262",
+    "samba_JK/593",
+    "udhampur_JK/680",
+    "chamba_HP/204"
+  ],
+  "katihar_BR/387": [
+    "malda_WB/460",
+    "purnia_BR/553",
+    "bhagalpur_BR/176",
+    "uttar dinajpur_WB/696",
+    "sahibganj_JH/589"
+  ],
+  "katni_MP/388": [
+    "jabalpur_MP/333",
+    "damoh_MP/235",
+    "panna_MP/524",
+    "satna_MP/602",
+    "umaria_MP/683"
+  ],
+  "kaushambi_UP/389": [
+    "fatehpur_UP/283",
+    "rae bareli_UP/555",
+    "chitrakoot_UP/221",
+    "prayagraj_UP/544",
+    "pratapgarh_UP/543"
+  ],
+  "kendrapara_OR/390": [
+    "jagatsinghpur_OR/334",
+    "cuttack_OR/228",
+    "jajpur_OR/337",
+    "bhadrak_OR/175"
+  ],
+  "kendujhar_OR/391": [
+    "west singhbhum_JH/720",
+    "angul_OR/124",
+    "sundargarh_OR/651",
+    "jajpur_OR/337",
+    "bhadrak_OR/175",
+    "balasore_OR/143",
+    "dhenkanal_OR/255",
+    "mayurbhanj_OR/470"
+  ],
+  "khagaria_BR/392": [
+    "munger_BR/482",
+    "samastipur_BR/592",
+    "bhagalpur_BR/176",
+    "begusarai_BR/169",
+    "madhepura_BR/449",
+    "saharsa_BR/588"
+  ],
+  "khandwa_MP/393": [
+    "dewas_MP/248",
+    "burhanpur_MP/201",
+    "harda_MP/318",
+    "betul_MP/173",
+    "amravati_MH/117",
+    "khargone_MP/394"
+  ],
+  "khargone_MP/394": [
+    "jalgaon_MH/340",
+    "khandwa_MP/393",
+    "dewas_MP/248",
+    "burhanpur_MP/201",
+    "barwani_MP/164",
+    "indore_MP/332",
+    "dhar_MP/252"
+  ],
+  "kheda_GJ/395": [
+    "anand_GJ/121",
+    "aravalli_GJ/128",
+    "mahisagar_GJ/456",
+    "ahmedabad_GJ/103",
+    "gandhinagar_GJ/291",
+    "vadodara_GJ/699",
+    "panchmahal_GJ/522"
+  ],
+  "khordha_OR/396": [
+    "puri_OR/552",
+    "ganjam_OR/293",
+    "cuttack_OR/228",
+    "nayagarh_OR/504"
+  ],
+  "khowai_TR/397": [
+    "sipahijala_TR/628",
+    "gomati_TR/303",
+    "dhalai_TR/249",
+    "west tripura_TR/721"
+  ],
+  "khunti_JH/398": [
+    "simdega_JH/625",
+    "west singhbhum_JH/720",
+    "saraikela-kharsawan_JH/599",
+    "gumla_JH/308",
+    "ranchi_JH/571"
+  ],
+  "kinnaur_HP/399": [
+    "kullu_HP/423",
+    "shimla_HP/616",
+    "uttarkashi_UT/698",
+    "lahaul and spiti_HP/430"
+  ],
+  "kiphire_NL/400": [
+    "phek_NL/537",
+    "zunheboto_NL/727",
+    "tuensang_NL/676"
+  ],
+  "kishanganj_BR/401": [
+    "purnia_BR/553",
+    "uttar dinajpur_WB/696",
+    "araria_BR/127",
+    "darjeeling_WB/238"
+  ],
+  "kishtwar_JK/402": [
+    "anantnag_JK/123",
+    "doda_JK/262",
+    "kargil_LA/381",
+    "lahaul and spiti_HP/430",
+    "chamba_HP/204"
+  ],
+  "kodagu_KA/403": [
+    "dakshina kannada_KA/233",
+    "kannur_KL/374",
+    "mysuru_KA/486",
+    "hassan_KA/321",
+    "kasaragod_KL/384",
+    "wayanad_KL/712"
+  ],
+  "koderma_JH/404": [
+    "hazaribagh_JH/324",
+    "nawada_BR/503",
+    "giridih_JH/301",
+    "gaya_BR/297"
+  ],
+  "kohima_NL/405": [
+    "dimapur_NL/258",
+    "unknown_AS/685",
+    "wokha_NL/722",
+    "peren_NL/536",
+    "phek_NL/537",
+    "unknown_MN/687",
+    "zunheboto_NL/727"
+  ],
+  "kolar_KA/406": [
+    "chittoor_AP/222",
+    "krishnagiri_TN/421",
+    "bengaluru rural_KA/171",
+    "chikkaballapura_KA/218"
+  ],
+  "kolasib_MZ/407": [
+    "aizawl_MZ/105",
+    "unknown_AS/685",
+    "mamit_MZ/462"
+  ],
+  "kolhapur_MH/408": [
+    "belagavi_KA/170",
+    "sindhudurg_MH/626",
+    "sangli_MH/596",
+    "ratnagiri_MH/573"
+  ],
+  "kolkata_WB/409": [
+    "south 24 parganas_WB/640",
+    "howrah_WB/330",
+    "north 24 parganas_WB/508"
+  ],
+  "kollam_KL/410": [
+    "tirunelveli_TN/672",
+    "alappuzha_KL/108",
+    "pathanamthitta_KL/530",
+    "thiruvananthapuram_KL/665"
+  ],
+  "kondagaon_CT/411": [
+    "nabarangapur_OR/487",
+    "dhamtari_CT/250",
+    "dakshin bastar dantewada_CT/231",
+    "uttar bastar kanker_CT/695",
+    "bastar_CT/165",
+    "narayanpur_CT/498"
+  ],
+  "koppal_KA/412": [
+    "ballari_KA/144",
+    "bagalkote_KA/137",
+    "gadag_KA/287",
+    "raichur_KA/556"
+  ],
+  "koraput_OR/413": [
+    "malkangiri_OR/461",
+    "nabarangapur_OR/487",
+    "vizianagaram_AP/709",
+    "visakhapatnam_AP/708",
+    "rayagada_OR/574",
+    "kalahandi_OR/366",
+    "bastar_CT/165"
+  ],
+  "korba_CT/414": [
+    "janjgir champa_CT/348",
+    "koriya_CT/415",
+    "surajpur_CT/653",
+    "surguja_CT/656",
+    "raigarh_CT/558",
+    "bilaspur_CT/190"
+  ],
+  "koriya_CT/415": [
+    "singrauli_MP/627",
+    "anuppur_MP/126",
+    "korba_CT/414",
+    "surajpur_CT/653",
+    "shahdol_MP/607",
+    "sidhi_MP/623",
+    "bilaspur_CT/190"
+  ],
+  "kota_RJ/416": [
+    "bundi_RJ/200",
+    "sawai madhopur_RJ/603",
+    "sheopur_MP/614",
+    "jhalawar_RJ/354",
+    "mandsaur_MP/465",
+    "baran_RJ/159",
+    "chittorgarh_RJ/223"
+  ],
+  "kottayam_KL/417": [
+    "alappuzha_KL/108",
+    "pathanamthitta_KL/530",
+    "ernakulam_KL/274",
+    "idukki_KL/331"
+  ],
+  "kozhikode_KL/418": [
+    "malappuram_KL/459",
+    "mahe_PY/454",
+    "kannur_KL/374",
+    "wayanad_KL/712"
+  ],
+  "kra daadi_AR/419": [
+    "papum pare_AR/525",
+    "kamle_AR/369",
+    "upper subansiri_AR/694",
+    "lower subansiri_AR/445",
+    "kurung kumey_AR/427"
+  ],
+  "krishna_AP/420": [
+    "unknown_TG/689",
+    "guntur_AP/310",
+    "west godavari_AP/715"
+  ],
+  "krishnagiri_TN/421": [
+    "ramanagara_KA/566",
+    "dharmapuri_TN/253",
+    "kolar_KA/406",
+    "vellore_TN/703",
+    "tiruvannamalai_TN/674",
+    "bengaluru rural_KA/171",
+    "chamarajanagara_KA/203",
+    "chittoor_AP/222",
+    "bengaluru urban_KA/172"
+  ],
+  "kulgam_JK/422": [
+    "rajouri_JK/564",
+    "shopiyan_JK/619",
+    "reasi_JK/575",
+    "anantnag_JK/123",
+    "budgam_JK/197",
+    "punch_JK/548",
+    "ramban_JK/568"
+  ],
+  "kullu_HP/423": [
+    "mandi_HP/463",
+    "kangra_HP/372",
+    "kinnaur_HP/399",
+    "shimla_HP/616",
+    "lahaul and spiti_HP/430"
+  ],
+  "kupwara_JK/424": [
+    "baramulla_JK/158",
+    "bandipora_JK/153"
+  ],
+  "kurnool_AP/425": [
+    "anantapur_AP/122",
+    "prakasam_AP/541",
+    "y.s.r. kadapa_AP/723",
+    "ballari_KA/144",
+    "unknown_TG/689",
+    "guntur_AP/310",
+    "raichur_KA/556"
+  ],
+  "kurukshetra_HR/426": [
+    "ambala_HR/114",
+    "yamunanagar_HR/725",
+    "patiala_PB/532",
+    "kaithal_HR/364",
+    "karnal_HR/382"
+  ],
+  "kurung kumey_AR/427": [
+    "kra daadi_AR/419",
+    "upper subansiri_AR/694",
+    "east kameng_AR/270",
+    "papum pare_AR/525"
+  ],
+  "kushinagar_UP/428": [
+    "gopalganj_BR/306",
+    "west champaran_BR/713",
+    "deoria_UP/246",
+    "maharajganj_UP/452",
+    "gorakhpur_UP/307"
+  ],
+  "kutch_GJ/429": [
+    "morbi_GJ/478",
+    "patan_GJ/529",
+    "barmer_RJ/162",
+    "jalore_RJ/342",
+    "surendranagar_GJ/655",
+    "banaskantha_GJ/151"
+  ],
+  "lahaul and spiti_HP/430": [
+    "leh_LA/437",
+    "kangra_HP/372",
+    "kinnaur_HP/399",
+    "kullu_HP/423",
+    "kishtwar_JK/402",
+    "kargil_LA/381",
+    "chamba_HP/204"
+  ],
+  "lakhimpur kheri_UP/431": [
+    "sitapur_UP/633",
+    "bahraich_UP/140",
+    "pilibhit_UP/538",
+    "shahjahanpur_UP/609",
+    "hardoi_UP/319"
+  ],
+  "lakhisarai_BR/432": [
+    "sheikhpura_BR/612",
+    "jamui_BR/347",
+    "munger_BR/482",
+    "nalanda_BR/493",
+    "patna_BR/533",
+    "begusarai_BR/169"
+  ],
+  "lalitpur_UP/433": [
+    "tikamgarh_MP/669",
+    "niwari_MP/507",
+    "ashoknagar_MP/131",
+    "sagar_MP/586",
+    "jhansi_UP/355",
+    "datia_MP/239",
+    "shivpuri_MP/618",
+    "chhatarpur_MP/215"
+  ],
+  "latehar_JH/434": [
+    "lohardaga_JH/439",
+    "chatra_JH/213",
+    "garhwa_JH/294",
+    "gumla_JH/308",
+    "ranchi_JH/571",
+    "palamu_JH/517",
+    "balrampur_CT/148"
+  ],
+  "latur_MH/435": [
+    "nanded_MH/496",
+    "parbhani_MH/526",
+    "bidar_KA/186",
+    "osmanabad_MH/513",
+    "beed_MH/168"
+  ],
+  "lawngtlai_MZ/436": [
+    "lunglei_MZ/448",
+    "saiha_MZ/590"
+  ],
+  "leh_LA/437": [
+    "kargil_LA/381",
+    "lahaul and spiti_HP/430"
+  ],
+  "lepa rada_AR/438": [
+    "upper subansiri_AR/694",
+    "lower siang_AR/444",
+    "west siang_AR/719"
+  ],
+  "lohardaga_JH/439": [
+    "latehar_JH/434",
+    "gumla_JH/308",
+    "ranchi_JH/571"
+  ],
+  "lohit_AR/440": [
+    "namsai_AR/495",
+    "unknown_AS/685",
+    "anjaw_AR/125",
+    "lower dibang valley_AR/443",
+    "changlang_AR/211"
+  ],
+  "longding_AR/441": [
+    "tirap_AR/670",
+    "mon_NL/476",
+    "unknown_AS/685"
+  ],
+  "longleng_NL/442": [
+    "mon_NL/476",
+    "mokokchung_NL/475",
+    "unknown_AS/685",
+    "tuensang_NL/676"
+  ],
+  "lower dibang valley_AR/443": [
+    "upper siang_AR/693",
+    "east siang_AR/272",
+    "unknown_AS/685",
+    "upper dibang valley_AR/692",
+    "lohit_AR/440"
+  ],
+  "lower siang_AR/444": [
+    "kamle_AR/369",
+    "east siang_AR/272",
+    "unknown_AS/685",
+    "upper subansiri_AR/694",
+    "siang_AR/621",
+    "west siang_AR/719",
+    "lepa rada_AR/438"
+  ],
+  "lower subansiri_AR/445": [
+    "kra daadi_AR/419",
+    "kamle_AR/369",
+    "papum pare_AR/525"
+  ],
+  "lucknow_UP/446": [
+    "sitapur_UP/633",
+    "rae bareli_UP/555",
+    "unnao_UP/690",
+    "hardoi_UP/319",
+    "barabanki_UP/157"
+  ],
+  "ludhiana_PB/447": [
+    "barnala_PB/163",
+    "sangrur_PB/597",
+    "fatehgarh sahib_PB/282",
+    "jalandhar_PB/338",
+    "rupnagar_PB/582",
+    "moga_PB/474",
+    "shahid bhagat singh nagar_PB/608"
+  ],
+  "lunglei_MZ/448": [
+    "lawngtlai_MZ/436",
+    "serchhip_MZ/606",
+    "aizawl_MZ/105",
+    "mamit_MZ/462"
+  ],
+  "madhepura_BR/449": [
+    "supaul_BR/652",
+    "araria_BR/127",
+    "purnia_BR/553",
+    "bhagalpur_BR/176",
+    "khagaria_BR/392",
+    "saharsa_BR/588"
+  ],
+  "madhubani_BR/450": [
+    "sitamarhi_BR/632",
+    "darbhanga_BR/237",
+    "supaul_BR/652",
+    "saharsa_BR/588"
+  ],
+  "madurai_TN/451": [
+    "tiruchirappalli_TN/671",
+    "sivaganga_TN/634",
+    "theni_TN/663",
+    "virudhunagar_TN/707",
+    "dindigul_TN/259"
+  ],
+  "maharajganj_UP/452": [
+    "kushinagar_UP/428",
+    "west champaran_BR/713",
+    "siddharthnagar_UP/622",
+    "gorakhpur_UP/307"
+  ],
+  "mahasamund_CT/453": [
+    "gariaband_CT/295",
+    "raipur_CT/559",
+    "bargarh_OR/161",
+    "nuapada_OR/511",
+    "raigarh_CT/558",
+    "baloda bazar_CT/147"
+  ],
+  "mahe_PY/454": [
+    "kozhikode_KL/418",
+    "kannur_KL/374"
+  ],
+  "mahendragarh_HR/455": [
+    "jhajjar_HR/353",
+    "charkhi dadri_HR/212",
+    "alwar_RJ/113",
+    "bhiwani_HR/183",
+    "jaipur_RJ/335",
+    "jhunjhunu_RJ/358",
+    "rewari_HR/577",
+    "sikar_RJ/624"
+  ],
+  "mahisagar_GJ/456": [
+    "aravalli_GJ/128",
+    "dungarpur_RJ/264",
+    "dahod_GJ/230",
+    "banswara_RJ/156",
+    "kheda_GJ/395",
+    "panchmahal_GJ/522"
+  ],
+  "mahoba_UP/457": [
+    "banda_UP/152",
+    "chhatarpur_MP/215",
+    "jhansi_UP/355",
+    "hamirpur_UP/315"
+  ],
+  "mainpuri_UP/458": [
+    "etawah_UP/277",
+    "firozabad_UP/286",
+    "kannauj_UP/373",
+    "etah_UP/276",
+    "farrukhabad_UP/280"
+  ],
+  "malappuram_KL/459": [
+    "kozhikode_KL/418",
+    "palakkad_KL/516",
+    "thrissur_KL/668",
+    "nilgiris_TN/506",
+    "wayanad_KL/712"
+  ],
+  "malda_WB/460": [
+    "dakshin dinajpur_WB/232",
+    "murshidabad_WB/483",
+    "katihar_BR/387",
+    "uttar dinajpur_WB/696",
+    "sahibganj_JH/589"
+  ],
+  "malkangiri_OR/461": [
+    "east godavari_AP/268",
+    "sukma_CT/649",
+    "visakhapatnam_AP/708",
+    "koraput_OR/413",
+    "bastar_CT/165"
+  ],
+  "mamit_MZ/462": [
+    "unknown_AS/685",
+    "kolasib_MZ/407",
+    "lunglei_MZ/448",
+    "north tripura_TR/510",
+    "aizawl_MZ/105"
+  ],
+  "mandi_HP/463": [
+    "kullu_HP/423",
+    "shimla_HP/616",
+    "kangra_HP/372",
+    "solan_HP/636",
+    "hamirpur_HP/314",
+    "bilaspur_HP/191"
+  ],
+  "mandla_MP/464": [
+    "kabeerdham_CT/362",
+    "balaghat_MP/141",
+    "seoni_MP/605",
+    "dindori_MP/260",
+    "jabalpur_MP/333"
+  ],
+  "mandsaur_MP/465": [
+    "neemuch_MP/505",
+    "jhalawar_RJ/354",
+    "kota_RJ/416",
+    "ratlam_MP/572",
+    "chittorgarh_RJ/223",
+    "pratapgarh_RJ/542"
+  ],
+  "mandya_KA/466": [
+    "ramanagara_KA/566",
+    "tumakuru_KA/677",
+    "chamarajanagara_KA/203",
+    "mysuru_KA/486",
+    "hassan_KA/321"
+  ],
+  "mansa_PB/467": [
+    "barnala_PB/163",
+    "sirsa_HR/631",
+    "sangrur_PB/597",
+    "bathinda_PB/167",
+    "fatehabad_HR/281"
+  ],
+  "mathura_UP/468": [
+    "aligarh_UP/109",
+    "agra_UP/102",
+    "palwal_HR/520",
+    "hathras_UP/322",
+    "nuh_HR/512",
+    "bharatpur_RJ/178"
+  ],
+  "mau_UP/469": [
+    "ballia_UP/145",
+    "deoria_UP/246",
+    "azamgarh_UP/136",
+    "gorakhpur_UP/307",
+    "ghazipur_UP/299"
+  ],
+  "mayurbhanj_OR/470": [
+    "west singhbhum_JH/720",
+    "saraikela-kharsawan_JH/599",
+    "east singhbhum_JH/273",
+    "balasore_OR/143",
+    "jhargram_WB/356",
+    "kendujhar_OR/391"
+  ],
+  "meerut_UP/471": [
+    "amroha_UP/120",
+    "muzaffarnagar_UP/484",
+    "ghaziabad_UP/298",
+    "hapur_UP/317",
+    "baghpat_UP/139",
+    "bijnor_UP/188"
+  ],
+  "mehsana_GJ/472": [
+    "patan_GJ/529",
+    "ahmedabad_GJ/103",
+    "gandhinagar_GJ/291",
+    "sabarkantha_GJ/585",
+    "surendranagar_GJ/655",
+    "banaskantha_GJ/151"
+  ],
+  "mirzapur_UP/473": [
+    "singrauli_MP/627",
+    "bhadohi_UP/174",
+    "varanasi_UP/702",
+    "chandauli_UP/208",
+    "rewa_MP/576",
+    "prayagraj_UP/544",
+    "sonbhadra_UP/638"
+  ],
+  "moga_PB/474": [
+    "barnala_PB/163",
+    "ludhiana_PB/447",
+    "faridkot_PB/279",
+    "ferozepur_PB/285",
+    "jalandhar_PB/338",
+    "bathinda_PB/167"
+  ],
+  "mokokchung_NL/475": [
+    "zunheboto_NL/727",
+    "unknown_AS/685",
+    "longleng_NL/442",
+    "wokha_NL/722",
+    "tuensang_NL/676"
+  ],
+  "mon_NL/476": [
+    "tuensang_NL/676",
+    "longleng_NL/442",
+    "unknown_AS/685",
+    "longding_AR/441"
+  ],
+  "moradabad_UP/477": [
+    "amroha_UP/120",
+    "rampur_UP/570",
+    "udham singh nagar_UT/679",
+    "budaun_UP/196",
+    "bijnor_UP/188",
+    "sambhal_UP/595"
+  ],
+  "morbi_GJ/478": [
+    "kutch_GJ/429",
+    "jamnagar_GJ/345",
+    "surendranagar_GJ/655",
+    "rajkot_GJ/562"
+  ],
+  "morena_MP/479": [
+    "sheopur_MP/614",
+    "bhind_MP/182",
+    "karauli_RJ/380",
+    "gwalior_MP/313",
+    "agra_UP/102",
+    "shivpuri_MP/618",
+    "dholpur_RJ/256"
+  ],
+  "mumbai_MH/480": [
+    "thane_MH/661"
+  ],
+  "mungeli_CT/481": [
+    "kabeerdham_CT/362",
+    "anuppur_MP/126",
+    "dindori_MP/260",
+    "bametara_CT/150",
+    "baloda bazar_CT/147",
+    "bilaspur_CT/190"
+  ],
+  "munger_BR/482": [
+    "lakhisarai_BR/432",
+    "jamui_BR/347",
+    "banka_BR/154",
+    "bhagalpur_BR/176",
+    "khagaria_BR/392",
+    "begusarai_BR/169"
+  ],
+  "murshidabad_WB/483": [
+    "purba bardhaman_WB/550",
+    "malda_WB/460",
+    "birbhum_WB/192",
+    "pakur_JH/515",
+    "nadia_WB/488",
+    "sahibganj_JH/589"
+  ],
+  "muzaffarnagar_UP/484": [
+    "haridwar_UT/320",
+    "saharanpur_UP/587",
+    "shamli_UP/611",
+    "baghpat_UP/139",
+    "bijnor_UP/188",
+    "meerut_UP/471"
+  ],
+  "muzaffarpur_BR/485": [
+    "gopalganj_BR/306",
+    "darbhanga_BR/237",
+    "east champaran_BR/266",
+    "vaishali_BR/700",
+    "samastipur_BR/592",
+    "sitamarhi_BR/632",
+    "saran_BR/600",
+    "sheohar_BR/613"
+  ],
+  "mysuru_KA/486": [
+    "kodagu_KA/403",
+    "chamarajanagara_KA/203",
+    "hassan_KA/321",
+    "wayanad_KL/712",
+    "mandya_KA/466"
+  ],
+  "nabarangapur_OR/487": [
+    "kondagaon_CT/411",
+    "gariaband_CT/295",
+    "koraput_OR/413",
+    "dhamtari_CT/250",
+    "kalahandi_OR/366",
+    "bastar_CT/165"
+  ],
+  "nadia_WB/488": [
+    "purba bardhaman_WB/550",
+    "murshidabad_WB/483",
+    "hooghly_WB/327",
+    "north 24 parganas_WB/508"
+  ],
+  "nagapattinam_TN/489": [
+    "thiruvarur_TN/666",
+    "thanjavur_TN/662",
+    "karaikal_PY/379",
+    "cuddalore_TN/227"
+  ],
+  "nagaur_RJ/490": [
+    "jaipur_RJ/335",
+    "ajmer_RJ/106",
+    "sikar_RJ/624",
+    "bikaner_RJ/189",
+    "churu_RJ/224",
+    "jodhpur_RJ/360",
+    "pali_RJ/519"
+  ],
+  "nagpur_MH/491": [
+    "wardha_MH/710",
+    "seoni_MP/605",
+    "balaghat_MP/141",
+    "bhandara_MH/177",
+    "chhindwara_MP/216",
+    "chandrapur_MH/210",
+    "amravati_MH/117"
+  ],
+  "nainital_UT/492": [
+    "udham singh nagar_UT/679",
+    "almora_UT/112",
+    "champawat_UT/206",
+    "pauri garhwal_UT/534",
+    "bijnor_UP/188"
+  ],
+  "nalanda_BR/493": [
+    "sheikhpura_BR/612",
+    "jehanabad_BR/351",
+    "lakhisarai_BR/432",
+    "gaya_BR/297",
+    "nawada_BR/503",
+    "patna_BR/533"
+  ],
+  "namakkal_TN/494": [
+    "salem_TN/591",
+    "karur_TN/383",
+    "tiruchirappalli_TN/671",
+    "erode_TN/275"
+  ],
+  "namsai_AR/495": [
+    "lohit_AR/440",
+    "unknown_AS/685",
+    "changlang_AR/211"
+  ],
+  "nanded_MH/496": [
+    "latur_MH/435",
+    "yavatmal_MH/726",
+    "hingoli_MH/325",
+    "parbhani_MH/526",
+    "bidar_KA/186",
+    "unknown_TG/689"
+  ],
+  "nandurbar_MH/497": [
+    "chhota udaipur_GJ/217",
+    "barwani_MP/164",
+    "tapi_GJ/657",
+    "dhule_MH/257",
+    "narmada_GJ/499",
+    "alirajpur_MP/111"
+  ],
+  "narayanpur_CT/498": [
+    "kondagaon_CT/411",
+    "gadchiroli_MH/288",
+    "yadgir_KA/724",
+    "dakshin bastar dantewada_CT/231",
+    "kalaburagi_KA/365",
+    "raichur_KA/556",
+    "uttar bastar kanker_CT/695",
+    "unknown_TG/689",
+    "bijapur_CT/187"
+  ],
+  "narmada_GJ/499": [
+    "bharuch_GJ/179",
+    "chhota udaipur_GJ/217",
+    "vadodara_GJ/699",
+    "surat_GJ/654",
+    "tapi_GJ/657",
+    "nandurbar_MH/497"
+  ],
+  "narsinghpur_MP/500": [
+    "seoni_MP/605",
+    "raisen_MP/560",
+    "sagar_MP/586",
+    "chhindwara_MP/216",
+    "jabalpur_MP/333",
+    "damoh_MP/235",
+    "hoshangabad_MP/328"
+  ],
+  "nashik_MH/501": [
+    "jalgaon_MH/340",
+    "palghar_MH/518",
+    "navsari_GJ/502",
+    "dang_GJ/236",
+    "ahmednagar_MH/104",
+    "dhule_MH/257",
+    "valsad_GJ/701",
+    "thane_MH/661",
+    "aurangabad_MH/134"
+  ],
+  "navsari_GJ/502": [
+    "dang_GJ/236",
+    "surat_GJ/654",
+    "tapi_GJ/657",
+    "nashik_MH/501",
+    "valsad_GJ/701"
+  ],
+  "nawada_BR/503": [
+    "sheikhpura_BR/612",
+    "jamui_BR/347",
+    "gaya_BR/297",
+    "giridih_JH/301",
+    "nalanda_BR/493",
+    "koderma_JH/404"
+  ],
+  "nayagarh_OR/504": [
+    "angul_OR/124",
+    "cuttack_OR/228",
+    "kandhamal_OR/371",
+    "ganjam_OR/293",
+    "khordha_OR/396",
+    "boudh_OR/195"
+  ],
+  "neemuch_MP/505": [
+    "chittorgarh_RJ/223",
+    "mandsaur_MP/465",
+    "bhilwara_RJ/181",
+    "pratapgarh_RJ/542"
+  ],
+  "nilgiris_TN/506": [
+    "palakkad_KL/516",
+    "malappuram_KL/459",
+    "chamarajanagara_KA/203",
+    "erode_TN/275",
+    "coimbatore_TN/225",
+    "wayanad_KL/712"
+  ],
+  "niwari_MP/507": [
+    "tikamgarh_MP/669",
+    "lalitpur_UP/433",
+    "jhansi_UP/355"
+  ],
+  "north 24 parganas_WB/508": [
+    "south 24 parganas_WB/640",
+    "hooghly_WB/327",
+    "nadia_WB/488",
+    "kolkata_WB/409",
+    "howrah_WB/330"
+  ],
+  "north garo hills_ML/509": [
+    "east garo hills_ML/267",
+    "west khasi hills_ML/718",
+    "unknown_AS/685",
+    "west garo hills_ML/714"
+  ],
+  "north tripura_TR/510": [
+    "unokoti_TR/691",
+    "unknown_AS/685",
+    "dhalai_TR/249",
+    "mamit_MZ/462"
+  ],
+  "nuapada_OR/511": [
+    "mahasamund_CT/453",
+    "gariaband_CT/295",
+    "kalahandi_OR/366",
+    "bargarh_OR/161",
+    "balangir_OR/142"
+  ],
+  "nuh_HR/512": [
+    "bharatpur_RJ/178",
+    "alwar_RJ/113",
+    "rewari_HR/577",
+    "gurugram_HR/312",
+    "palwal_HR/520",
+    "mathura_UP/468"
+  ],
+  "osmanabad_MH/513": [
+    "latur_MH/435",
+    "solapur_MH/637",
+    "kalaburagi_KA/365",
+    "ahmednagar_MH/104",
+    "bidar_KA/186",
+    "beed_MH/168"
+  ],
+  "pakke kessang_AR/514": [
+    "west kameng_AR/717",
+    "east kameng_AR/270",
+    "unknown_AS/685",
+    "papum pare_AR/525"
+  ],
+  "pakur_JH/515": [
+    "godda_JH/302",
+    "murshidabad_WB/483",
+    "birbhum_WB/192",
+    "dumka_JH/263",
+    "sahibganj_JH/589"
+  ],
+  "palakkad_KL/516": [
+    "malappuram_KL/459",
+    "coimbatore_TN/225",
+    "thrissur_KL/668",
+    "nilgiris_TN/506"
+  ],
+  "palamu_JH/517": [
+    "chatra_JH/213",
+    "latehar_JH/434",
+    "garhwa_JH/294",
+    "rohtas_BR/580",
+    "gaya_BR/297",
+    "aurangabad_BR/133"
+  ],
+  "palghar_MH/518": [
+    "nashik_MH/501",
+    "valsad_GJ/701",
+    "dadra and nagar haveli_DN/229",
+    "thane_MH/661"
+  ],
+  "pali_RJ/519": [
+    "rajsamand_RJ/565",
+    "nagaur_RJ/490",
+    "udaipur_RJ/678",
+    "ajmer_RJ/106",
+    "barmer_RJ/162",
+    "sirohi_RJ/630",
+    "jalore_RJ/342",
+    "jodhpur_RJ/360"
+  ],
+  "palwal_HR/520": [
+    "gautam buddha nagar_UP/296",
+    "aligarh_UP/109",
+    "gurugram_HR/312",
+    "nuh_HR/512",
+    "mathura_UP/468",
+    "faridabad_HR/278"
+  ],
+  "panchkula_HR/521": [
+    "s.a.s. nagar_PB/583",
+    "chandigarh_CH/209",
+    "ambala_HR/114",
+    "solan_HP/636",
+    "sirmaur_HP/629"
+  ],
+  "panchmahal_GJ/522": [
+    "mahisagar_GJ/456",
+    "dahod_GJ/230",
+    "chhota udaipur_GJ/217",
+    "vadodara_GJ/699",
+    "kheda_GJ/395"
+  ],
+  "panipat_HR/523": [
+    "sonipat_HR/639",
+    "shamli_UP/611",
+    "baghpat_UP/139",
+    "jind_HR/359",
+    "karnal_HR/382"
+  ],
+  "panna_MP/524": [
+    "banda_UP/152",
+    "katni_MP/388",
+    "damoh_MP/235",
+    "satna_MP/602",
+    "chhatarpur_MP/215"
+  ],
+  "papum pare_AR/525": [
+    "east kameng_AR/270",
+    "pakke kessang_AR/514",
+    "kamle_AR/369",
+    "unknown_AS/685",
+    "kra daadi_AR/419",
+    "lower subansiri_AR/445",
+    "kurung kumey_AR/427"
+  ],
+  "parbhani_MH/526": [
+    "latur_MH/435",
+    "nanded_MH/496",
+    "jalna_MH/341",
+    "washim_MH/711",
+    "buldhana_MH/199",
+    "hingoli_MH/325",
+    "beed_MH/168"
+  ],
+  "paschim bardhaman_WB/527": [
+    "purba bardhaman_WB/550",
+    "birbhum_WB/192",
+    "dhanbad_JH/251",
+    "bankura_WB/155",
+    "jamtara_JH/346",
+    "purulia_WB/554"
+  ],
+  "paschim medinipur_WB/528": [
+    "howrah_WB/330",
+    "hooghly_WB/327",
+    "balasore_OR/143",
+    "jhargram_WB/356",
+    "bankura_WB/155",
+    "purba medinipur_WB/551"
+  ],
+  "patan_GJ/529": [
+    "kutch_GJ/429",
+    "surendranagar_GJ/655",
+    "banaskantha_GJ/151",
+    "mehsana_GJ/472"
+  ],
+  "pathanamthitta_KL/530": [
+    "kollam_KL/410",
+    "tirunelveli_TN/672",
+    "kottayam_KL/417",
+    "alappuzha_KL/108",
+    "idukki_KL/331"
+  ],
+  "pathankot_PB/531": [
+    "chamba_HP/204",
+    "gurdaspur_PB/311",
+    "kangra_HP/372",
+    "kathua_JK/386"
+  ],
+  "patiala_PB/532": [
+    "s.a.s. nagar_PB/583",
+    "ambala_HR/114",
+    "sangrur_PB/597",
+    "kurukshetra_HR/426",
+    "fatehgarh sahib_PB/282",
+    "jind_HR/359",
+    "kaithal_HR/364"
+  ],
+  "patna_BR/533": [
+    "jehanabad_BR/351",
+    "lakhisarai_BR/432",
+    "vaishali_BR/700",
+    "samastipur_BR/592",
+    "saran_BR/600",
+    "nalanda_BR/493",
+    "arwal_BR/130",
+    "begusarai_BR/169",
+    "bhojpur_BR/184"
+  ],
+  "pauri garhwal_UT/534": [
+    "rudraprayag_UT/581",
+    "haridwar_UT/320",
+    "almora_UT/112",
+    "chamoli_UT/205",
+    "tehri garhwal_UT/660",
+    "nainital_UT/492",
+    "bijnor_UP/188",
+    "dehradun_UT/242"
+  ],
+  "perambalur_TN/535": [
+    "ariyalur_TN/129",
+    "kallakurichi_TN/368",
+    "salem_TN/591",
+    "tiruchirappalli_TN/671",
+    "cuddalore_TN/227"
+  ],
+  "peren_NL/536": [
+    "unknown_AS/685",
+    "unknown_MN/687",
+    "kohima_NL/405",
+    "dimapur_NL/258"
+  ],
+  "phek_NL/537": [
+    "zunheboto_NL/727",
+    "kiphire_NL/400",
+    "unknown_MN/687",
+    "kohima_NL/405"
+  ],
+  "pilibhit_UP/538": [
+    "lakhimpur kheri_UP/431",
+    "udham singh nagar_UT/679",
+    "shahjahanpur_UP/609",
+    "bareilly_UP/160"
+  ],
+  "pithoragarh_UT/539": [
+    "bageshwar_UT/138",
+    "champawat_UT/206",
+    "chamoli_UT/205",
+    "almora_UT/112"
+  ],
+  "porbandar_GJ/540": [
+    "rajkot_GJ/562",
+    "devbhumi dwarka_GJ/247",
+    "jamnagar_GJ/345",
+    "junagadh_GJ/361"
+  ],
+  "prakasam_AP/541": [
+    "y.s.r. kadapa_AP/723",
+    "kurnool_AP/425",
+    "guntur_AP/310",
+    "s.p.s. nellore_AP/584"
+  ],
+  "pratapgarh_RJ/542": [
+    "chittorgarh_RJ/223",
+    "ratlam_MP/572",
+    "dungarpur_RJ/264",
+    "udaipur_RJ/678",
+    "mandsaur_MP/465",
+    "neemuch_MP/505",
+    "banswara_RJ/156"
+  ],
+  "pratapgarh_UP/543": [
+    "jaunpur_UP/350",
+    "rae bareli_UP/555",
+    "prayagraj_UP/544",
+    "amethi_UP/116",
+    "kaushambi_UP/389",
+    "sultanpur_UP/650",
+    "fatehpur_UP/283"
+  ],
+  "prayagraj_UP/544": [
+    "bhadohi_UP/174",
+    "mirzapur_UP/473",
+    "kaushambi_UP/389",
+    "rewa_MP/576",
+    "jaunpur_UP/350",
+    "chitrakoot_UP/221",
+    "pratapgarh_UP/543"
+  ],
+  "puducherry_PY/545": [
+    "viluppuram_TN/706",
+    "cuddalore_TN/227"
+  ],
+  "pudukkottai_TN/546": [
+    "thanjavur_TN/662",
+    "tiruchirappalli_TN/671",
+    "sivaganga_TN/634",
+    "ramanathapuram_TN/567"
+  ],
+  "pulwama_JK/547": [
+    "srinagar_JK/647",
+    "anantnag_JK/123",
+    "budgam_JK/197",
+    "shopiyan_JK/619"
+  ],
+  "punch_JK/548": [
+    "rajouri_JK/564",
+    "reasi_JK/575",
+    "baramulla_JK/158",
+    "kulgam_JK/422",
+    "budgam_JK/197"
+  ],
+  "pune_MH/549": [
+    "satara_MH/601",
+    "solapur_MH/637",
+    "raigad_MH/557",
+    "ahmednagar_MH/104",
+    "thane_MH/661"
+  ],
+  "purba bardhaman_WB/550": [
+    "paschim bardhaman_WB/527",
+    "murshidabad_WB/483",
+    "birbhum_WB/192",
+    "hooghly_WB/327",
+    "bankura_WB/155",
+    "nadia_WB/488"
+  ],
+  "purba medinipur_WB/551": [
+    "south 24 parganas_WB/640",
+    "balasore_OR/143",
+    "paschim medinipur_WB/528",
+    "howrah_WB/330"
+  ],
+  "puri_OR/552": [
+    "jagatsinghpur_OR/334",
+    "ganjam_OR/293",
+    "cuttack_OR/228",
+    "khordha_OR/396"
+  ],
+  "purnia_BR/553": [
+    "araria_BR/127",
+    "kishanganj_BR/401",
+    "katihar_BR/387",
+    "bhagalpur_BR/176",
+    "uttar dinajpur_WB/696",
+    "madhepura_BR/449"
+  ],
+  "purulia_WB/554": [
+    "saraikela-kharsawan_JH/599",
+    "paschim bardhaman_WB/527",
+    "dhanbad_JH/251",
+    "ramgarh_JH/569",
+    "east singhbhum_JH/273",
+    "bankura_WB/155",
+    "jhargram_WB/356",
+    "ranchi_JH/571",
+    "bokaro_JH/193"
+  ],
+  "rae bareli_UP/555": [
+    "fatehpur_UP/283",
+    "kaushambi_UP/389",
+    "unnao_UP/690",
+    "barabanki_UP/157",
+    "amethi_UP/116",
+    "lucknow_UP/446",
+    "pratapgarh_UP/543"
+  ],
+  "raichur_KA/556": [
+    "kurnool_AP/425",
+    "yadgir_KA/724",
+    "ballari_KA/144",
+    "koppal_KA/412",
+    "vijayapura_KA/705",
+    "bagalkote_KA/137",
+    "narayanpur_CT/498",
+    "unknown_TG/689"
+  ],
+  "raigad_MH/557": [
+    "pune_MH/549",
+    "thane_MH/661",
+    "ratnagiri_MH/573",
+    "satara_MH/601"
+  ],
+  "raigarh_CT/558": [
+    "jashpur_CT/349",
+    "mahasamund_CT/453",
+    "sundargarh_OR/651",
+    "janjgir champa_CT/348",
+    "korba_CT/414",
+    "surguja_CT/656",
+    "bargarh_OR/161",
+    "jharsuguda_OR/357",
+    "baloda bazar_CT/147"
+  ],
+  "raipur_CT/559": [
+    "mahasamund_CT/453",
+    "gariaband_CT/295",
+    "dhamtari_CT/250",
+    "bametara_CT/150",
+    "durg_CT/265",
+    "baloda bazar_CT/147"
+  ],
+  "raisen_MP/560": [
+    "sehore_MP/604",
+    "narsinghpur_MP/500",
+    "sagar_MP/586",
+    "bhopal_MP/185",
+    "hoshangabad_MP/328",
+    "vidisha_MP/704"
+  ],
+  "rajgarh_MP/561": [
+    "shajapur_MP/610",
+    "agar malwa_MP/101",
+    "sehore_MP/604",
+    "guna_MP/309",
+    "jhalawar_RJ/354",
+    "bhopal_MP/185"
+  ],
+  "rajkot_GJ/562": [
+    "amreli_GJ/118",
+    "morbi_GJ/478",
+    "porbandar_GJ/540",
+    "junagadh_GJ/361",
+    "jamnagar_GJ/345",
+    "surendranagar_GJ/655",
+    "botad_GJ/194"
+  ],
+  "rajnandgaon_CT/563": [
+    "kabeerdham_CT/362",
+    "gadchiroli_MH/288",
+    "balaghat_MP/141",
+    "gondia_MH/305",
+    "uttar bastar kanker_CT/695",
+    "balod_CT/146",
+    "bametara_CT/150",
+    "durg_CT/265"
+  ],
+  "rajouri_JK/564": [
+    "jammu_JK/344",
+    "kulgam_JK/422",
+    "punch_JK/548",
+    "reasi_JK/575"
+  ],
+  "rajsamand_RJ/565": [
+    "bhilwara_RJ/181",
+    "udaipur_RJ/678",
+    "ajmer_RJ/106",
+    "pali_RJ/519",
+    "chittorgarh_RJ/223"
+  ],
+  "ramanagara_KA/566": [
+    "tumakuru_KA/677",
+    "bengaluru rural_KA/171",
+    "chamarajanagara_KA/203",
+    "bengaluru urban_KA/172",
+    "krishnagiri_TN/421",
+    "mandya_KA/466"
+  ],
+  "ramanathapuram_TN/567": [
+    "pudukkottai_TN/546",
+    "sivaganga_TN/634",
+    "thoothukkudi_TN/667",
+    "virudhunagar_TN/707"
+  ],
+  "ramban_JK/568": [
+    "reasi_JK/575",
+    "kulgam_JK/422",
+    "anantnag_JK/123",
+    "doda_JK/262",
+    "udhampur_JK/680"
+  ],
+  "ramgarh_JH/569": [
+    "hazaribagh_JH/324",
+    "ranchi_JH/571",
+    "bokaro_JH/193",
+    "purulia_WB/554"
+  ],
+  "rampur_UP/570": [
+    "udham singh nagar_UT/679",
+    "bareilly_UP/160",
+    "budaun_UP/196",
+    "moradabad_UP/477"
+  ],
+  "ranchi_JH/571": [
+    "lohardaga_JH/439",
+    "saraikela-kharsawan_JH/599",
+    "latehar_JH/434",
+    "chatra_JH/213",
+    "gumla_JH/308",
+    "ramgarh_JH/569",
+    "hazaribagh_JH/324",
+    "purulia_WB/554",
+    "khunti_JH/398"
+  ],
+  "ratlam_MP/572": [
+    "agar malwa_MP/101",
+    "jhalawar_RJ/354",
+    "jhabua_MP/352",
+    "banswara_RJ/156",
+    "dhar_MP/252",
+    "mandsaur_MP/465",
+    "ujjain_MP/682",
+    "pratapgarh_RJ/542"
+  ],
+  "ratnagiri_MH/573": [
+    "sangli_MH/596",
+    "kolhapur_MH/408",
+    "satara_MH/601",
+    "raigad_MH/557",
+    "sindhudurg_MH/626"
+  ],
+  "rayagada_OR/574": [
+    "srikakulam_AP/646",
+    "vizianagaram_AP/709",
+    "gajapati_OR/289",
+    "koraput_OR/413",
+    "kalahandi_OR/366",
+    "kandhamal_OR/371"
+  ],
+  "reasi_JK/575": [
+    "rajouri_JK/564",
+    "jammu_JK/344",
+    "kulgam_JK/422",
+    "punch_JK/548",
+    "ramban_JK/568",
+    "udhampur_JK/680"
+  ],
+  "rewa_MP/576": [
+    "singrauli_MP/627",
+    "mirzapur_UP/473",
+    "chitrakoot_UP/221",
+    "prayagraj_UP/544",
+    "satna_MP/602",
+    "sidhi_MP/623"
+  ],
+  "rewari_HR/577": [
+    "jhajjar_HR/353",
+    "mahendragarh_HR/455",
+    "alwar_RJ/113",
+    "gurugram_HR/312",
+    "nuh_HR/512"
+  ],
+  "ribhoi_ML/578": [
+    "east khasi hills_ML/271",
+    "unknown_AS/685",
+    "west khasi hills_ML/718",
+    "west jaintia hills_ML/716"
+  ],
+  "rohtak_HR/579": [
+    "jhajjar_HR/353",
+    "charkhi dadri_HR/212",
+    "bhiwani_HR/183",
+    "sonipat_HR/639",
+    "jind_HR/359",
+    "hisar_HR/326"
+  ],
+  "rohtas_BR/580": [
+    "buxar_BR/202",
+    "sonbhadra_UP/638",
+    "garhwa_JH/294",
+    "palamu_JH/517",
+    "arwal_BR/130",
+    "kaimur_BR/363",
+    "bhojpur_BR/184",
+    "aurangabad_BR/133"
+  ],
+  "rudraprayag_UT/581": [
+    "pauri garhwal_UT/534",
+    "uttarkashi_UT/698",
+    "tehri garhwal_UT/660",
+    "chamoli_UT/205"
+  ],
+  "rupnagar_PB/582": [
+    "s.a.s. nagar_PB/583",
+    "ludhiana_PB/447",
+    "una_HP/684",
+    "fatehgarh sahib_PB/282",
+    "solan_HP/636",
+    "hoshiarpur_PB/329",
+    "shahid bhagat singh nagar_PB/608",
+    "bilaspur_HP/191"
+  ],
+  "s.a.s. nagar_PB/583": [
+    "chandigarh_CH/209",
+    "panchkula_HR/521",
+    "ambala_HR/114",
+    "fatehgarh sahib_PB/282",
+    "solan_HP/636",
+    "patiala_PB/532",
+    "rupnagar_PB/582"
+  ],
+  "s.p.s. nellore_AP/584": [
+    "y.s.r. kadapa_AP/723",
+    "prakasam_AP/541",
+    "thiruvallur_TN/664",
+    "chittoor_AP/222"
+  ],
+  "sabarkantha_GJ/585": [
+    "aravalli_GJ/128",
+    "mehsana_GJ/472",
+    "gandhinagar_GJ/291",
+    "udaipur_RJ/678",
+    "sirohi_RJ/630",
+    "banaskantha_GJ/151"
+  ],
+  "sagar_MP/586": [
+    "ashoknagar_MP/131",
+    "narsinghpur_MP/500",
+    "raisen_MP/560",
+    "lalitpur_UP/433",
+    "damoh_MP/235",
+    "chhatarpur_MP/215",
+    "vidisha_MP/704"
+  ],
+  "saharanpur_UP/587": [
+    "muzaffarnagar_UP/484",
+    "haridwar_UT/320",
+    "yamunanagar_HR/725",
+    "shamli_UP/611",
+    "sirmaur_HP/629",
+    "dehradun_UT/242",
+    "karnal_HR/382"
+  ],
+  "saharsa_BR/588": [
+    "supaul_BR/652",
+    "darbhanga_BR/237",
+    "samastipur_BR/592",
+    "khagaria_BR/392",
+    "madhubani_BR/450",
+    "madhepura_BR/449"
+  ],
+  "sahibganj_JH/589": [
+    "godda_JH/302",
+    "malda_WB/460",
+    "murshidabad_WB/483",
+    "katihar_BR/387",
+    "pakur_JH/515",
+    "bhagalpur_BR/176"
+  ],
+  "saiha_MZ/590": [
+    "lawngtlai_MZ/436"
+  ],
+  "salem_TN/591": [
+    "dharmapuri_TN/253",
+    "kallakurichi_TN/368",
+    "tiruchirappalli_TN/671",
+    "chamarajanagara_KA/203",
+    "erode_TN/275",
+    "namakkal_TN/494",
+    "perambalur_TN/535"
+  ],
+  "samastipur_BR/592": [
+    "darbhanga_BR/237",
+    "muzaffarpur_BR/485",
+    "vaishali_BR/700",
+    "khagaria_BR/392",
+    "patna_BR/533",
+    "begusarai_BR/169",
+    "saharsa_BR/588"
+  ],
+  "samba_JK/593": [
+    "jammu_JK/344",
+    "udhampur_JK/680",
+    "kathua_JK/386"
+  ],
+  "sambalpur_OR/594": [
+    "angul_OR/124",
+    "sundargarh_OR/651",
+    "deogarh_OR/244",
+    "bargarh_OR/161",
+    "subarnapur_OR/648",
+    "jharsuguda_OR/357"
+  ],
+  "sambhal_UP/595": [
+    "amroha_UP/120",
+    "bulandshahr_UP/198",
+    "aligarh_UP/109",
+    "budaun_UP/196",
+    "moradabad_UP/477"
+  ],
+  "sangli_MH/596": [
+    "kolhapur_MH/408",
+    "satara_MH/601",
+    "solapur_MH/637",
+    "vijayapura_KA/705",
+    "ratnagiri_MH/573",
+    "belagavi_KA/170"
+  ],
+  "sangrur_PB/597": [
+    "barnala_PB/163",
+    "ludhiana_PB/447",
+    "mansa_PB/467",
+    "fatehgarh sahib_PB/282",
+    "patiala_PB/532",
+    "jind_HR/359",
+    "fatehabad_HR/281"
+  ],
+  "sant kabir nagar_UP/598": [
+    "siddharthnagar_UP/622",
+    "basti_UP/166",
+    "ambedkar nagar_UP/115",
+    "gorakhpur_UP/307"
+  ],
+  "saraikela-kharsawan_JH/599": [
+    "west singhbhum_JH/720",
+    "east singhbhum_JH/273",
+    "ranchi_JH/571",
+    "purulia_WB/554",
+    "khunti_JH/398",
+    "mayurbhanj_OR/470"
+  ],
+  "saran_BR/600": [
+    "gopalganj_BR/306",
+    "ballia_UP/145",
+    "muzaffarpur_BR/485",
+    "siwan_BR/635",
+    "vaishali_BR/700",
+    "patna_BR/533",
+    "bhojpur_BR/184"
+  ],
+  "satara_MH/601": [
+    "sangli_MH/596",
+    "solapur_MH/637",
+    "raigad_MH/557",
+    "ratnagiri_MH/573",
+    "pune_MH/549"
+  ],
+  "satna_MP/602": [
+    "sidhi_MP/623",
+    "rewa_MP/576",
+    "katni_MP/388",
+    "chitrakoot_UP/221",
+    "shahdol_MP/607",
+    "panna_MP/524",
+    "banda_UP/152",
+    "umaria_MP/683"
+  ],
+  "sawai madhopur_RJ/603": [
+    "bundi_RJ/200",
+    "dausa_RJ/240",
+    "sheopur_MP/614",
+    "tonk_RJ/675",
+    "karauli_RJ/380",
+    "kota_RJ/416"
+  ],
+  "sehore_MP/604": [
+    "shajapur_MP/610",
+    "dewas_MP/248",
+    "rajgarh_MP/561",
+    "raisen_MP/560",
+    "harda_MP/318",
+    "bhopal_MP/185",
+    "hoshangabad_MP/328"
+  ],
+  "seoni_MP/605": [
+    "balaghat_MP/141",
+    "narsinghpur_MP/500",
+    "chhindwara_MP/216",
+    "mandla_MP/464",
+    "jabalpur_MP/333",
+    "nagpur_MH/491"
+  ],
+  "serchhip_MZ/606": [
+    "lunglei_MZ/448",
+    "champhai_MZ/207",
+    "aizawl_MZ/105"
+  ],
+  "shahdol_MP/607": [
+    "anuppur_MP/126",
+    "umaria_MP/683",
+    "koriya_CT/415",
+    "satna_MP/602",
+    "sidhi_MP/623"
+  ],
+  "shahid bhagat singh nagar_PB/608": [
+    "ludhiana_PB/447",
+    "jalandhar_PB/338",
+    "kapurthala_PB/378",
+    "hoshiarpur_PB/329",
+    "rupnagar_PB/582"
+  ],
+  "shahjahanpur_UP/609": [
+    "pilibhit_UP/538",
+    "lakhimpur kheri_UP/431",
+    "bareilly_UP/160",
+    "hardoi_UP/319",
+    "budaun_UP/196",
+    "farrukhabad_UP/280"
+  ],
+  "shajapur_MP/610": [
+    "agar malwa_MP/101",
+    "sehore_MP/604",
+    "dewas_MP/248",
+    "rajgarh_MP/561",
+    "ujjain_MP/682"
+  ],
+  "shamli_UP/611": [
+    "panipat_HR/523",
+    "muzaffarnagar_UP/484",
+    "saharanpur_UP/587",
+    "baghpat_UP/139",
+    "karnal_HR/382"
+  ],
+  "sheikhpura_BR/612": [
+    "lakhisarai_BR/432",
+    "jamui_BR/347",
+    "nawada_BR/503",
+    "nalanda_BR/493"
+  ],
+  "sheohar_BR/613": [
+    "muzaffarpur_BR/485",
+    "sitamarhi_BR/632",
+    "east champaran_BR/266"
+  ],
+  "sheopur_MP/614": [
+    "sawai madhopur_RJ/603",
+    "morena_MP/479",
+    "karauli_RJ/380",
+    "kota_RJ/416",
+    "baran_RJ/159",
+    "shivpuri_MP/618"
+  ],
+  "shi yomi_AR/615": [
+    "upper subansiri_AR/694",
+    "upper siang_AR/693",
+    "siang_AR/621",
+    "west siang_AR/719"
+  ],
+  "shimla_HP/616": [
+    "uttarkashi_UT/698",
+    "mandi_HP/463",
+    "kinnaur_HP/399",
+    "solan_HP/636",
+    "kullu_HP/423",
+    "sirmaur_HP/629",
+    "dehradun_UT/242"
+  ],
+  "shivamogga_KA/617": [
+    "davanagere_KA/241",
+    "uttara kannada_KA/697",
+    "haveri_KA/323",
+    "chikkamagaluru_KA/219",
+    "udupi_KA/681"
+  ],
+  "shivpuri_MP/618": [
+    "sheopur_MP/614",
+    "ashoknagar_MP/131",
+    "guna_MP/309",
+    "morena_MP/479",
+    "gwalior_MP/313",
+    "jhansi_UP/355",
+    "lalitpur_UP/433",
+    "datia_MP/239",
+    "baran_RJ/159"
+  ],
+  "shopiyan_JK/619": [
+    "kulgam_JK/422",
+    "anantnag_JK/123",
+    "budgam_JK/197",
+    "pulwama_JK/547"
+  ],
+  "shrawasti_UP/620": [
+    "gonda_UP/304",
+    "bahraich_UP/140",
+    "balrampur_UP/149"
+  ],
+  "siang_AR/621": [
+    "shi yomi_AR/615",
+    "east siang_AR/272",
+    "west siang_AR/719",
+    "upper siang_AR/693",
+    "lower siang_AR/444"
+  ],
+  "siddharthnagar_UP/622": [
+    "basti_UP/166",
+    "gonda_UP/304",
+    "maharajganj_UP/452",
+    "gorakhpur_UP/307",
+    "sant kabir nagar_UP/598",
+    "balrampur_UP/149"
+  ],
+  "sidhi_MP/623": [
+    "singrauli_MP/627",
+    "koriya_CT/415",
+    "rewa_MP/576",
+    "shahdol_MP/607",
+    "satna_MP/602"
+  ],
+  "sikar_RJ/624": [
+    "mahendragarh_HR/455",
+    "jaipur_RJ/335",
+    "nagaur_RJ/490",
+    "jhunjhunu_RJ/358",
+    "churu_RJ/224"
+  ],
+  "simdega_JH/625": [
+    "west singhbhum_JH/720",
+    "jashpur_CT/349",
+    "sundargarh_OR/651",
+    "gumla_JH/308",
+    "khunti_JH/398"
+  ],
+  "sindhudurg_MH/626": [
+    "belagavi_KA/170",
+    "kolhapur_MH/408",
+    "unknown_GA/686",
+    "ratnagiri_MH/573"
+  ],
+  "singrauli_MP/627": [
+    "mirzapur_UP/473",
+    "rewa_MP/576",
+    "koriya_CT/415",
+    "surajpur_CT/653",
+    "sonbhadra_UP/638",
+    "sidhi_MP/623",
+    "balrampur_CT/148"
+  ],
+  "sipahijala_TR/628": [
+    "gomati_TR/303",
+    "south tripura_TR/642",
+    "khowai_TR/397",
+    "west tripura_TR/721"
+  ],
+  "sirmaur_HP/629": [
+    "panchkula_HR/521",
+    "ambala_HR/114",
+    "saharanpur_UP/587",
+    "yamunanagar_HR/725",
+    "solan_HP/636",
+    "shimla_HP/616",
+    "dehradun_UT/242"
+  ],
+  "sirohi_RJ/630": [
+    "udaipur_RJ/678",
+    "sabarkantha_GJ/585",
+    "jalore_RJ/342",
+    "pali_RJ/519",
+    "banaskantha_GJ/151"
+  ],
+  "sirsa_HR/631": [
+    "mansa_PB/467",
+    "sri muktsar sahib_PB/645",
+    "hanumangarh_RJ/316",
+    "bathinda_PB/167",
+    "fatehabad_HR/281"
+  ],
+  "sitamarhi_BR/632": [
+    "darbhanga_BR/237",
+    "muzaffarpur_BR/485",
+    "east champaran_BR/266",
+    "madhubani_BR/450",
+    "sheohar_BR/613"
+  ],
+  "sitapur_UP/633": [
+    "bahraich_UP/140",
+    "lakhimpur kheri_UP/431",
+    "hardoi_UP/319",
+    "barabanki_UP/157",
+    "lucknow_UP/446"
+  ],
+  "sivaganga_TN/634": [
+    "tiruchirappalli_TN/671",
+    "madurai_TN/451",
+    "ramanathapuram_TN/567",
+    "pudukkottai_TN/546",
+    "virudhunagar_TN/707"
+  ],
+  "siwan_BR/635": [
+    "gopalganj_BR/306",
+    "deoria_UP/246",
+    "ballia_UP/145",
+    "saran_BR/600"
+  ],
+  "solan_HP/636": [
+    "s.a.s. nagar_PB/583",
+    "panchkula_HR/521",
+    "mandi_HP/463",
+    "rupnagar_PB/582",
+    "shimla_HP/616",
+    "sirmaur_HP/629",
+    "bilaspur_HP/191"
+  ],
+  "solapur_MH/637": [
+    "sangli_MH/596",
+    "satara_MH/601",
+    "vijayapura_KA/705",
+    "kalaburagi_KA/365",
+    "ahmednagar_MH/104",
+    "osmanabad_MH/513",
+    "pune_MH/549"
+  ],
+  "sonbhadra_UP/638": [
+    "singrauli_MP/627",
+    "mirzapur_UP/473",
+    "garhwa_JH/294",
+    "rohtas_BR/580",
+    "chandauli_UP/208",
+    "kaimur_BR/363",
+    "balrampur_CT/148"
+  ],
+  "sonipat_HR/639": [
+    "panipat_HR/523",
+    "jhajjar_HR/353",
+    "rohtak_HR/579",
+    "delhi_DL/243",
+    "baghpat_UP/139",
+    "jind_HR/359"
+  ],
+  "south 24 parganas_WB/640": [
+    "kolkata_WB/409",
+    "howrah_WB/330",
+    "purba medinipur_WB/551",
+    "north 24 parganas_WB/508"
+  ],
+  "south garo hills_ML/641": [
+    "east garo hills_ML/267",
+    "south west khasi hills_ML/644",
+    "west khasi hills_ML/718",
+    "west garo hills_ML/714"
+  ],
+  "south tripura_TR/642": [
+    "sipahijala_TR/628",
+    "gomati_TR/303"
+  ],
+  "south west garo hills_ML/643": [
+    "unknown_AS/685",
+    "west garo hills_ML/714"
+  ],
+  "south west khasi hills_ML/644": [
+    "east khasi hills_ML/271",
+    "west khasi hills_ML/718",
+    "south garo hills_ML/641"
+  ],
+  "sri muktsar sahib_PB/645": [
+    "faridkot_PB/279",
+    "sirsa_HR/631",
+    "ferozepur_PB/285",
+    "fazilka_PB/284",
+    "hanumangarh_RJ/316",
+    "bathinda_PB/167"
+  ],
+  "srikakulam_AP/646": [
+    "vizianagaram_AP/709",
+    "rayagada_OR/574",
+    "gajapati_OR/289",
+    "ganjam_OR/293"
+  ],
+  "srinagar_JK/647": [
+    "pulwama_JK/547",
+    "baramulla_JK/158",
+    "bandipora_JK/153",
+    "anantnag_JK/123",
+    "budgam_JK/197",
+    "ganderbal_JK/290"
+  ],
+  "subarnapur_OR/648": [
+    "angul_OR/124",
+    "sambalpur_OR/594",
+    "bargarh_OR/161",
+    "balangir_OR/142",
+    "boudh_OR/195"
+  ],
+  "sukma_CT/649": [
+    "east godavari_AP/268",
+    "malkangiri_OR/461",
+    "dakshin bastar dantewada_CT/231",
+    "bastar_CT/165",
+    "unknown_TG/689",
+    "bijapur_CT/187"
+  ],
+  "sultanpur_UP/650": [
+    "ambedkar nagar_UP/115",
+    "ayodhya_UP/135",
+    "azamgarh_UP/136",
+    "jaunpur_UP/350",
+    "amethi_UP/116",
+    "pratapgarh_UP/543"
+  ],
+  "sundargarh_OR/651": [
+    "simdega_JH/625",
+    "west singhbhum_JH/720",
+    "angul_OR/124",
+    "sambalpur_OR/594",
+    "jashpur_CT/349",
+    "deogarh_OR/244",
+    "jharsuguda_OR/357",
+    "raigarh_CT/558",
+    "kendujhar_OR/391"
+  ],
+  "supaul_BR/652": [
+    "madhubani_BR/450",
+    "araria_BR/127",
+    "madhepura_BR/449",
+    "saharsa_BR/588"
+  ],
+  "surajpur_CT/653": [
+    "korba_CT/414",
+    "singrauli_MP/627",
+    "koriya_CT/415",
+    "surguja_CT/656",
+    "balrampur_CT/148"
+  ],
+  "surat_GJ/654": [
+    "narmada_GJ/499",
+    "tapi_GJ/657",
+    "bharuch_GJ/179",
+    "navsari_GJ/502"
+  ],
+  "surendranagar_GJ/655": [
+    "morbi_GJ/478",
+    "kutch_GJ/429",
+    "patan_GJ/529",
+    "ahmedabad_GJ/103",
+    "mehsana_GJ/472",
+    "rajkot_GJ/562",
+    "botad_GJ/194"
+  ],
+  "surguja_CT/656": [
+    "korba_CT/414",
+    "surajpur_CT/653",
+    "raigarh_CT/558",
+    "jashpur_CT/349",
+    "balrampur_CT/148"
+  ],
+  "tapi_GJ/657": [
+    "navsari_GJ/502",
+    "dang_GJ/236",
+    "surat_GJ/654",
+    "dhule_MH/257",
+    "narmada_GJ/499",
+    "nandurbar_MH/497"
+  ],
+  "tarn taran_PB/658": [
+    "kapurthala_PB/378",
+    "amritsar_PB/119",
+    "ferozepur_PB/285"
+  ],
+  "tawang_AR/659": [
+    "west kameng_AR/717",
+    "east kameng_AR/270"
+  ],
+  "tehri garhwal_UT/660": [
+    "rudraprayag_UT/581",
+    "pauri garhwal_UT/534",
+    "uttarkashi_UT/698",
+    "dehradun_UT/242"
+  ],
+  "thane_MH/661": [
+    "palghar_MH/518",
+    "mumbai_MH/480",
+    "raigad_MH/557",
+    "ahmednagar_MH/104",
+    "nashik_MH/501",
+    "pune_MH/549"
+  ],
+  "thanjavur_TN/662": [
+    "thiruvarur_TN/666",
+    "ariyalur_TN/129",
+    "nagapattinam_TN/489",
+    "tiruchirappalli_TN/671",
+    "pudukkottai_TN/546",
+    "cuddalore_TN/227"
+  ],
+  "theni_TN/663": [
+    "dindigul_TN/259",
+    "virudhunagar_TN/707",
+    "madurai_TN/451",
+    "idukki_KL/331"
+  ],
+  "thiruvallur_TN/664": [
+    "chennai_TN/214",
+    "vellore_TN/703",
+    "chittoor_AP/222",
+    "kancheepuram_TN/370",
+    "s.p.s. nellore_AP/584"
+  ],
+  "thiruvananthapuram_KL/665": [
+    "tirunelveli_TN/672",
+    "kollam_KL/410",
+    "kanyakumari_TN/377"
+  ],
+  "thiruvarur_TN/666": [
+    "thanjavur_TN/662",
+    "karaikal_PY/379",
+    "nagapattinam_TN/489"
+  ],
+  "thoothukkudi_TN/667": [
+    "tirunelveli_TN/672",
+    "virudhunagar_TN/707",
+    "ramanathapuram_TN/567"
+  ],
+  "thrissur_KL/668": [
+    "malappuram_KL/459",
+    "ernakulam_KL/274",
+    "coimbatore_TN/225",
+    "palakkad_KL/516"
+  ],
+  "tikamgarh_MP/669": [
+    "lalitpur_UP/433",
+    "niwari_MP/507",
+    "chhatarpur_MP/215",
+    "jhansi_UP/355"
+  ],
+  "tirap_AR/670": [
+    "unknown_AS/685",
+    "longding_AR/441",
+    "changlang_AR/211"
+  ],
+  "tiruchirappalli_TN/671": [
+    "ariyalur_TN/129",
+    "dindigul_TN/259",
+    "salem_TN/591",
+    "thanjavur_TN/662",
+    "sivaganga_TN/634",
+    "madurai_TN/451",
+    "namakkal_TN/494",
+    "pudukkottai_TN/546",
+    "karur_TN/383",
+    "perambalur_TN/535"
+  ],
+  "tirunelveli_TN/672": [
+    "kollam_KL/410",
+    "pathanamthitta_KL/530",
+    "thoothukkudi_TN/667",
+    "thiruvananthapuram_KL/665",
+    "virudhunagar_TN/707",
+    "kanyakumari_TN/377",
+    "idukki_KL/331"
+  ],
+  "tiruppur_TN/673": [
+    "dindigul_TN/259",
+    "karur_TN/383",
+    "erode_TN/275",
+    "coimbatore_TN/225",
+    "idukki_KL/331"
+  ],
+  "tiruvannamalai_TN/674": [
+    "dharmapuri_TN/253",
+    "kallakurichi_TN/368",
+    "vellore_TN/703",
+    "kancheepuram_TN/370",
+    "krishnagiri_TN/421",
+    "viluppuram_TN/706"
+  ],
+  "tonk_RJ/675": [
+    "bundi_RJ/200",
+    "dausa_RJ/240",
+    "sawai madhopur_RJ/603",
+    "bhilwara_RJ/181",
+    "jaipur_RJ/335",
+    "ajmer_RJ/106"
+  ],
+  "tuensang_NL/676": [
+    "zunheboto_NL/727",
+    "mon_NL/476",
+    "longleng_NL/442",
+    "mokokchung_NL/475",
+    "kiphire_NL/400"
+  ],
+  "tumakuru_KA/677": [
+    "ramanagara_KA/566",
+    "anantapur_AP/122",
+    "chitradurga_KA/220",
+    "chikkaballapura_KA/218",
+    "bengaluru rural_KA/171",
+    "chikkamagaluru_KA/219",
+    "hassan_KA/321",
+    "mandya_KA/466"
+  ],
+  "udaipur_RJ/678": [
+    "aravalli_GJ/128",
+    "dungarpur_RJ/264",
+    "rajsamand_RJ/565",
+    "sabarkantha_GJ/585",
+    "sirohi_RJ/630",
+    "pali_RJ/519",
+    "chittorgarh_RJ/223",
+    "pratapgarh_RJ/542"
+  ],
+  "udham singh nagar_UT/679": [
+    "pilibhit_UP/538",
+    "rampur_UP/570",
+    "bareilly_UP/160",
+    "champawat_UT/206",
+    "nainital_UT/492",
+    "moradabad_UP/477",
+    "bijnor_UP/188"
+  ],
+  "udhampur_JK/680": [
+    "jammu_JK/344",
+    "reasi_JK/575",
+    "doda_JK/262",
+    "ramban_JK/568",
+    "kathua_JK/386",
+    "samba_JK/593"
+  ],
+  "udupi_KA/681": [
+    "chikkamagaluru_KA/219",
+    "dakshina kannada_KA/233",
+    "shivamogga_KA/617",
+    "uttara kannada_KA/697"
+  ],
+  "ujjain_MP/682": [
+    "shajapur_MP/610",
+    "agar malwa_MP/101",
+    "dewas_MP/248",
+    "indore_MP/332",
+    "dhar_MP/252",
+    "ratlam_MP/572"
+  ],
+  "umaria_MP/683": [
+    "anuppur_MP/126",
+    "dindori_MP/260",
+    "katni_MP/388",
+    "jabalpur_MP/333",
+    "shahdol_MP/607",
+    "satna_MP/602"
+  ],
+  "una_HP/684": [
+    "hoshiarpur_PB/329",
+    "rupnagar_PB/582",
+    "kangra_HP/372",
+    "hamirpur_HP/314",
+    "bilaspur_HP/191"
+  ],
+  "unknown_AS/685": [
+    "ribhoi_ML/578",
+    "east siang_AR/272",
+    "mokokchung_NL/475",
+    "pakke kessang_AR/514",
+    "lower siang_AR/444",
+    "changlang_AR/211",
+    "west garo hills_ML/714",
+    "dimapur_NL/258",
+    "west khasi hills_ML/718",
+    "mamit_MZ/462",
+    "kohima_NL/405",
+    "south west garo hills_ML/643",
+    "peren_NL/536",
+    "longleng_NL/442",
+    "west jaintia hills_ML/716",
+    "lohit_AR/440",
+    "mon_NL/476",
+    "namsai_AR/495",
+    "east jaintia hills_ML/269",
+    "north garo hills_ML/509",
+    "alipurduar_WB/110",
+    "north tripura_TR/510",
+    "cooch behar_WB/226",
+    "lower dibang valley_AR/443",
+    "wokha_NL/722",
+    "west kameng_AR/717",
+    "papum pare_AR/525",
+    "kamle_AR/369",
+    "kolasib_MZ/407",
+    "longding_AR/441",
+    "tirap_AR/670",
+    "aizawl_MZ/105",
+    "unknown_MN/687"
+  ],
+  "unknown_GA/686": [
+    "belagavi_KA/170",
+    "sindhudurg_MH/626",
+    "uttara kannada_KA/697"
+  ],
+  "unknown_MN/687": [
+    "champhai_MZ/207",
+    "kohima_NL/405",
+    "unknown_AS/685",
+    "peren_NL/536",
+    "phek_NL/537",
+    "aizawl_MZ/105"
+  ],
+  "unknown_SK/688": [
+    "kalimpong_WB/367",
+    "darjeeling_WB/238"
+  ],
+  "unknown_TG/689": [
+    "jalgaon_MH/340",
+    "east godavari_AP/268",
+    "nanded_MH/496",
+    "gadchiroli_MH/288",
+    "yavatmal_MH/726",
+    "sukma_CT/649",
+    "kurnool_AP/425",
+    "raichur_KA/556",
+    "krishna_AP/420",
+    "kalaburagi_KA/365",
+    "bidar_KA/186",
+    "narayanpur_CT/498",
+    "chandrapur_MH/210",
+    "guntur_AP/310",
+    "bijapur_CT/187",
+    "west godavari_AP/715"
+  ],
+  "unnao_UP/690": [
+    "fatehpur_UP/283",
+    "rae bareli_UP/555",
+    "hardoi_UP/319",
+    "kanpur nagar_UP/376",
+    "lucknow_UP/446"
+  ],
+  "unokoti_TR/691": [
+    "north tripura_TR/510",
+    "dhalai_TR/249"
+  ],
+  "upper dibang valley_AR/692": [
+    "upper siang_AR/693",
+    "lower dibang valley_AR/443"
+  ],
+  "upper siang_AR/693": [
+    "shi yomi_AR/615",
+    "east siang_AR/272",
+    "upper dibang valley_AR/692",
+    "siang_AR/621",
+    "lower dibang valley_AR/443"
+  ],
+  "upper subansiri_AR/694": [
+    "kamle_AR/369",
+    "shi yomi_AR/615",
+    "lepa rada_AR/438",
+    "kra daadi_AR/419",
+    "west siang_AR/719",
+    "kurung kumey_AR/427",
+    "lower siang_AR/444"
+  ],
+  "uttar bastar kanker_CT/695": [
+    "kondagaon_CT/411",
+    "gadchiroli_MH/288",
+    "dhamtari_CT/250",
+    "balod_CT/146",
+    "narayanpur_CT/498",
+    "rajnandgaon_CT/563"
+  ],
+  "uttar dinajpur_WB/696": [
+    "dakshin dinajpur_WB/232",
+    "malda_WB/460",
+    "purnia_BR/553",
+    "kishanganj_BR/401",
+    "katihar_BR/387",
+    "darjeeling_WB/238"
+  ],
+  "uttara kannada_KA/697": [
+    "shivamogga_KA/617",
+    "unknown_GA/686",
+    "haveri_KA/323",
+    "belagavi_KA/170",
+    "dharwad_KA/254",
+    "udupi_KA/681"
+  ],
+  "uttarkashi_UT/698": [
+    "rudraprayag_UT/581",
+    "kinnaur_HP/399",
+    "chamoli_UT/205",
+    "shimla_HP/616",
+    "tehri garhwal_UT/660",
+    "dehradun_UT/242"
+  ],
+  "vadodara_GJ/699": [
+    "anand_GJ/121",
+    "bharuch_GJ/179",
+    "chhota udaipur_GJ/217",
+    "kheda_GJ/395",
+    "panchmahal_GJ/522",
+    "narmada_GJ/499"
+  ],
+  "vaishali_BR/700": [
+    "samastipur_BR/592",
+    "patna_BR/533",
+    "muzaffarpur_BR/485",
+    "saran_BR/600"
+  ],
+  "valsad_GJ/701": [
+    "palghar_MH/518",
+    "dadra and nagar haveli_DN/229",
+    "daman_DN/234",
+    "navsari_GJ/502",
+    "nashik_MH/501"
+  ],
+  "varanasi_UP/702": [
+    "bhadohi_UP/174",
+    "mirzapur_UP/473",
+    "chandauli_UP/208",
+    "jaunpur_UP/350",
+    "ghazipur_UP/299"
+  ],
+  "vellore_TN/703": [
+    "tiruvannamalai_TN/674",
+    "chittoor_AP/222",
+    "kancheepuram_TN/370",
+    "krishnagiri_TN/421",
+    "thiruvallur_TN/664"
+  ],
+  "vidisha_MP/704": [
+    "ashoknagar_MP/131",
+    "guna_MP/309",
+    "raisen_MP/560",
+    "sagar_MP/586",
+    "bhopal_MP/185"
+  ],
+  "vijayapura_KA/705": [
+    "sangli_MH/596",
+    "yadgir_KA/724",
+    "solapur_MH/637",
+    "kalaburagi_KA/365",
+    "bagalkote_KA/137",
+    "belagavi_KA/170",
+    "raichur_KA/556"
+  ],
+  "viluppuram_TN/706": [
+    "kallakurichi_TN/368",
+    "tiruvannamalai_TN/674",
+    "puducherry_PY/545",
+    "kancheepuram_TN/370",
+    "cuddalore_TN/227"
+  ],
+  "virudhunagar_TN/707": [
+    "sivaganga_TN/634",
+    "thoothukkudi_TN/667",
+    "madurai_TN/451",
+    "ramanathapuram_TN/567",
+    "theni_TN/663",
+    "tirunelveli_TN/672",
+    "idukki_KL/331"
+  ],
+  "visakhapatnam_AP/708": [
+    "vizianagaram_AP/709",
+    "east godavari_AP/268",
+    "koraput_OR/413",
+    "malkangiri_OR/461"
+  ],
+  "vizianagaram_AP/709": [
+    "srikakulam_AP/646",
+    "rayagada_OR/574",
+    "visakhapatnam_AP/708",
+    "koraput_OR/413"
+  ],
+  "wardha_MH/710": [
+    "yavatmal_MH/726",
+    "chandrapur_MH/210",
+    "amravati_MH/117",
+    "nagpur_MH/491"
+  ],
+  "washim_MH/711": [
+    "yavatmal_MH/726",
+    "akola_MH/107",
+    "parbhani_MH/526",
+    "buldhana_MH/199",
+    "hingoli_MH/325",
+    "amravati_MH/117"
+  ],
+  "wayanad_KL/712": [
+    "kozhikode_KL/418",
+    "kannur_KL/374",
+    "malappuram_KL/459",
+    "kodagu_KA/403",
+    "chamarajanagara_KA/203",
+    "mysuru_KA/486",
+    "nilgiris_TN/506"
+  ],
+  "west champaran_BR/713": [
+    "gopalganj_BR/306",
+    "east champaran_BR/266",
+    "maharajganj_UP/452",
+    "kushinagar_UP/428"
+  ],
+  "west garo hills_ML/714": [
+    "east garo hills_ML/267",
+    "unknown_AS/685",
+    "south west garo hills_ML/643",
+    "north garo hills_ML/509",
+    "south garo hills_ML/641"
+  ],
+  "west godavari_AP/715": [
+    "east godavari_AP/268",
+    "unknown_TG/689",
+    "krishna_AP/420"
+  ],
+  "west jaintia hills_ML/716": [
+    "east khasi hills_ML/271",
+    "unknown_AS/685",
+    "ribhoi_ML/578",
+    "east jaintia hills_ML/269"
+  ],
+  "west kameng_AR/717": [
+    "unknown_AS/685",
+    "east kameng_AR/270",
+    "pakke kessang_AR/514",
+    "tawang_AR/659"
+  ],
+  "west khasi hills_ML/718": [
+    "ribhoi_ML/578",
+    "east khasi hills_ML/271",
+    "east garo hills_ML/267",
+    "unknown_AS/685",
+    "north garo hills_ML/509",
+    "south west khasi hills_ML/644",
+    "south garo hills_ML/641"
+  ],
+  "west siang_AR/719": [
+    "shi yomi_AR/615",
+    "upper subansiri_AR/694",
+    "siang_AR/621",
+    "lepa rada_AR/438",
+    "lower siang_AR/444"
+  ],
+  "west singhbhum_JH/720": [
+    "simdega_JH/625",
+    "saraikela-kharsawan_JH/599",
+    "sundargarh_OR/651",
+    "khunti_JH/398",
+    "mayurbhanj_OR/470",
+    "kendujhar_OR/391"
+  ],
+  "west tripura_TR/721": [
+    "sipahijala_TR/628",
+    "khowai_TR/397"
+  ],
+  "wokha_NL/722": [
+    "zunheboto_NL/727",
+    "unknown_AS/685",
+    "mokokchung_NL/475",
+    "kohima_NL/405"
+  ],
+  "y.s.r. kadapa_AP/723": [
+    "anantapur_AP/122",
+    "prakasam_AP/541",
+    "kurnool_AP/425",
+    "chittoor_AP/222",
+    "s.p.s. nellore_AP/584"
+  ],
+  "yadgir_KA/724": [
+    "vijayapura_KA/705",
+    "kalaburagi_KA/365",
+    "narayanpur_CT/498",
+    "raichur_KA/556"
+  ],
+  "yamunanagar_HR/725": [
+    "ambala_HR/114",
+    "saharanpur_UP/587",
+    "kurukshetra_HR/426",
+    "sirmaur_HP/629",
+    "karnal_HR/382"
+  ],
+  "yavatmal_MH/726": [
+    "wardha_MH/710",
+    "chandrapur_MH/210",
+    "nanded_MH/496",
+    "unknown_TG/689",
+    "washim_MH/711",
+    "hingoli_MH/325",
+    "amravati_MH/117"
+  ],
+  "zunheboto_NL/727": [
+    "kohima_NL/405",
+    "wokha_NL/722",
+    "mokokchung_NL/475",
+    "phek_NL/537",
+    "kiphire_NL/400",
+    "tuensang_NL/676"
+  ]
+}
